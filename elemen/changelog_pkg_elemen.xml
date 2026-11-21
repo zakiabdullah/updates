@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.8.0</version>
+		<note>
+			<item>Counter Pro 0.7.0</item>
+			<item>Flip Box Pro 0.7.0</item>
+			<item>Heading Pro 0.7.0</item>
+			<item>Progress Bar Pro 0.7.0</item>
+			<item>Shape Dividers Pro 0.8.0</item>
+			<item>Timeline Pro 0.7.0</item>
+		</note>
+	</changelog>
+</changelogs>

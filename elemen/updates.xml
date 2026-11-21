@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+	<update>
+		<name>Elemen</name>
+		<description>Elemen 0.8.0</description>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<client>site</client>
+		<version>0.8.0</version>
+		<infourl title="Elemen">https://updates.webmonsta.com/elemen</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-0.8.0.zip</downloadurl>
+		</downloads>
+		<sha512>78d3c929d54e365a2e2ab9265415a8ac660ad1f38476c288a4ce980b29ab85aa26dae56bdaf14aebe2378fff5948f6a1e5cbc2560cfd9d482eed9785c0cf0e26</sha512>
+		<targetplatform name="joomla" version="(5|6)\..*"/>
+		<php_minimum>8.1</php_minimum>
+		<maintainer>Elemen</maintainer>
+	</update>
+	<update>
+		<name>Elemen Counter Pro</name>
+		<description>Elemen Counter Pro 0.7.0</description>
+		<element>elemen_counter_pro</element>
+		<type>plugin</type>
+		<folder>system</folder>
+		<client>site</client>
+		<version>0.7.0</version>
+		<infourl title="Elemen">https://updates.webmonsta.com/elemen</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_counter_pro-0.7.0.zip</downloadurl>
+		</downloads>
+		<sha512>357da61196174bb845ec5bbf2ab43efa88d3a0efdadef4a60acb29374f5b5563e4c1677a9b62d804761a2a84fbded655a72c96116a04094b4e61e264cb6614fb</sha512>
+		<targetplatform name="joomla" version="(5|6)\..*"/>
+		<php_minimum>8.1</php_minimum>
+		<maintainer>Elemen</maintainer>
+	</update>
+	<update>
+		<name>Elemen Flip Box Pro</name>
+		<description>Elemen Flip Box Pro 0.7.0</description>
+		<element>elemen_flipbox_pro</element>
+		<type>plugin</type>
+		<folder>system</folder>
+		<client>site</client>
+		<version>0.7.0</version>
+		<infourl title="Elemen">https://updates.webmonsta.com/elemen</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_flipbox_pro-0.7.0.zip</downloadurl>
+		</downloads>
+		<sha512>05ab5ff15a65b39bbf26cb38e05c21ff99f15ac6f2a24244a107925c5c89fdaf974331036506e4ec6a95ac25454649d22dc0d10749fbec22dd00ccf0d3d4fe7a</sha512>
+		<targetplatform name="joomla" version="(5|6)\..*"/>
+		<php_minimum>8.1</php_minimum>
+		<maintainer>Elemen</maintainer>
+	</update>
+	<update>
+		<name>Elemen Heading Pro</name>
+		<description>Elemen Heading Pro 0.7.0</description>
+		<element>elemen_heading_pro</element>
+		<type>plugin</type>
+		<folder>system</folder>
+		<client>site</client>
+		<version>0.7.0</version>
+		<infourl title="Elemen">https://updates.webmonsta.com/elemen</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_heading_pro-0.7.0.zip</downloadurl>
+		</downloads>
+		<sha512>e382853f3a97ff0727b8bb50403f1e97097241fe0b0772de8fd6d3c15fb2544bddced6e68a9fe0ebfa5a223a46e0540f507d6fe07cf6b9e15cc06b9561000ce6</sha512>
+		<targetplatform name="joomla" version="(5|6)\..*"/>
+		<php_minimum>8.1</php_minimum>
+		<maintainer>Elemen</maintainer>
+	</update>
+	<update>
+		<name>Elemen Progress Bar Pro</name>
+		<description>Elemen Progress Bar Pro 0.7.0</description>
+		<element>elemen_progress_pro</element>
+		<type>plugin</type>
+		<folder>system</folder>
+		<client>site</client>
+		<version>0.7.0</version>
+		<infourl title="Elemen">https://updates.webmonsta.com/elemen</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_progress_pro-0.7.0.zip</downloadurl>
+		</downloads>
+		<sha512>910dd32213419670111ff49efaad877e7594656fc6d4d735bfb47d777b3a824fc1af72bd8fe5f26f7abba1c47bb5fb6d81f0fb566ebb4a4906719b4909a58649</sha512>
+		<targetplatform name="joomla" version="(5|6)\..*"/>
+		<php_minimum>8.1</php_minimum>
+		<maintainer>Elemen</maintainer>
+	</update>
+	<update>
+		<name>Elemen Shape Dividers Pro</name>
+		<description>Elemen Shape Dividers Pro 0.8.0</description>
+		<element>elemen_shapes_pro</element>
+		<type>plugin</type>
+		<folder>system</folder>
+		<client>site</client>
+		<version>0.8.0</version>
+		<infourl title="Elemen">https://updates.webmonsta.com/elemen</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_shapes_pro-0.8.0.zip</downloadurl>
+		</downloads>
+		<sha512>fdff95196e70b16d4f9ec618a27a3db2d3b701e0cf6b94c249040b887c3b2be6282c9a8c45c1f2b069a680b0051a08612a213f9cdf3f95dfd860c4b59c71a02b</sha512>
+		<targetplatform name="joomla" version="(5|6)\..*"/>
+		<php_minimum>8.1</php_minimum>
+		<maintainer>Elemen</maintainer>
+	</update>
+	<update>
+		<name>Elemen Timeline Pro</name>
+		<description>Elemen Timeline Pro 0.7.0</description>
+		<element>elemen_timeline_pro</element>
+		<type>plugin</type>
+		<folder>system</folder>
+		<client>site</client>
+		<version>0.7.0</version>
+		<infourl title="Elemen">https://updates.webmonsta.com/elemen</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_timeline_pro-0.7.0.zip</downloadurl>
+		</downloads>
+		<sha512>6d3fdc2b13599bbb11234d533845fd4ea6d68c9ac8e6205b64b5a5deab6f7417e3d0424854b5c6044bb80a31fa4e6e111fda645adc6e6cad8ebfbec36c2ceb6e</sha512>
+		<targetplatform name="joomla" version="(5|6)\..*"/>
+		<php_minimum>8.1</php_minimum>
+		<maintainer>Elemen</maintainer>
+	</update>
+</updates>
