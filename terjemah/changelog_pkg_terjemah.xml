@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>1.0.0</version>
+		<change>
+			<item><![CDATA[First stable release. From 1.0, database tables, settings, CLI commands and the export format only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Needs Joomla 5.4 or later (tested on 5.4 and 6.2). The installer says so, in the site's language, on an older Joomla or PHP.]]></item>
+			<item><![CDATA[The package names WebMonsta as its author, with a support address and website, and ships the GNU GPL licence text.]]></item>
+			<item><![CDATA[Glossary: the example in the empty glossary comes from the language files.]]></item>
+		</change>
+		<fix>
+			<item><![CDATA[Glossary: a line that cannot be read is shown in the error message as plain text.]]></item>
+			<item><![CDATA[Updates remove any console command an earlier version shipped and this one no longer does.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.15.2</version>
+		<change>
+			<item><![CDATA[Language switcher (inline list): less space between the languages, so flags sit closer together.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.15.1</version>
+		<change>
+			<item><![CDATA[The YOOtheme Pro plugin is now called **TerjemahYOOPro** (System - TerjemahYOOPro). Its internal name is unchanged, so updates install over the old version.]]></item>
+		</change>
+		<remove>
+			<item><![CDATA[The legacy import command, the import hint on the dashboard and the checks for other translation plugins in the health check and terjemah:status.]]></item>
+		</remove>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.15.0</version>
+		<addition>
+			<item><![CDATA[YOOtheme Pro dynamic content: articles listed by dynamic sources (custom articles, category articles, related articles, tag items) and categories (custom category, an article's category, parent and child categories) show their translated title, text and description.]]></item>
+			<item><![CDATA[Custom fields of articles and categories: values are translated on the article or category translation screen (text, textarea, editor and URL fields); labels, descriptions and option names of list, radio and checkbox fields under the new Custom fields type. Shown translated by Joomla and by YOOtheme dynamic content.]]></item>
+			<item><![CDATA[Tags: new Tags type for title and description, shown translated in an article's tags and in YOOtheme tag sources.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.14.3</version>
+		<addition>
+			<item><![CDATA[The changelog shows in Joomla: the Changelog button under System → Manage → Extensions and in the update list.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.14.2</version>
+		<change>
+			<item><![CDATA[New dashboard: overall progress with quick actions (Translate next, Translations, menu aliases, Glossary), a card per language with its progress and to-do counts, progress by content type, and clearer Needs attention and Recent activity sections. Works with the administrator's light and dark color schemes.]]></item>
+		</change>
+		<fix>
+			<item><![CDATA[Language switcher: no dividers between languages, and centred on the same line as the menu in a navbar or toolbar.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.14.1</version>
+		<addition>
+			<item><![CDATA[Automatic updates: the package registers the update server updates.webmonsta.com/terjemah, so new versions show under System → Update → Extensions.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.14.0</version>
+		<addition>
+			<item><![CDATA[Any number of languages, tested on Joomla 5 and 6 with three languages.]]></item>
+			<item><![CDATA[English documentation (README and deployment guide).]]></item>
+		</addition>
+		<fix>
+			<item><![CDATA[Joomla 5: translated menu URLs (for example /ms/hubungi-kami.html) returned 404.]]></item>
+		</fix>
+		<note>
+			<item><![CDATA[Measured cost: one extra database query on default-language pages and five on translated pages.]]></item>
+		</note>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.13.1</version>
+		<addition>
+			<item><![CDATA[Custom YOOtheme elements: text fields marked "translate": true can be translated.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.13.0</version>
+		<addition>
+			<item><![CDATA[Revision history for every translation, with restore.]]></item>
+			<item><![CDATA[Glossary of terms to keep consistent across translations.]]></item>
+			<item><![CDATA[Search and Replace across translations.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.12.0</version>
+		<addition>
+			<item><![CDATA[Mark as up to date, for translations whose original changed only slightly.]]></item>
+			<item><![CDATA["Translate this page" box on the site for users allowed to translate.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.11.0</version>
+		<addition>
+			<item><![CDATA[Dashboard summary per language, Needs attention, Recent activity and health checks.]]></item>
+			<item><![CDATA[Translations list filter: Needs update.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.10.0</version>
+		<addition>
+			<item><![CDATA[Category pages: translated page title, heading and breadcrumbs.]]></item>
+			<item><![CDATA[Language switcher layouts: dropdown, and flags.]]></item>
+			<item><![CDATA[Command line: terjemah:status, terjemah:export and terjemah:import.]]></item>
+			<item><![CDATA[Deployment guide and update server support (build.php --update-url).]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.9.0</version>
+		<addition>
+			<item><![CDATA[Menu URL aliases made from translated titles, one by one or in bulk, with options.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.8.0</version>
+		<addition>
+			<item><![CDATA[Progress dashboard and View on Site for each translation.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.7.0</version>
+		<addition>
+			<item><![CDATA[Translate buttons on Joomla's own edit screens for articles, categories, menu items and modules.]]></item>
+			<item><![CDATA[Shows what changed in the original text since it was translated.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.6.0</version>
+		<addition>
+			<item><![CDATA[hreflang links for pages shared by all languages.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.5.0</version>
+		<addition>
+			<item><![CDATA[Clean-up of translations whose item was deleted, automatically and from the dashboard or command line.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.4.0</version>
+		<addition>
+			<item><![CDATA[Translated URLs for menu items, with redirects from the old URLs.]]></item>
+			<item><![CDATA[Translated category titles and descriptions on category pages.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.3.0</version>
+		<addition>
+			<item><![CDATA[Administrator screens: list of translations and side-by-side editing.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.2.0</version>
+		<addition>
+			<item><![CDATA[YOOtheme Pro integration: Page Builder text is translated.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<version>0.1.0</version>
+		<addition>
+			<item><![CDATA[First release: translations for articles, categories, menu items and modules in their own table and a language switcher module.]]></item>
+		</addition>
+	</changelog>
+</changelogs>
