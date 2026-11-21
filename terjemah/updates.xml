@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+	<update>
+		<name>Terjemah</name>
+		<description>Terjemah 0.14.1</description>
+		<element>pkg_terjemah</element>
+		<type>package</type>
+		<client>site</client>
+		<version>0.14.1</version>
+		<infourl title="Terjemah">https://updates.webmonsta.com/terjemah</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/terjemah/pkg_terjemah-0.14.1.zip</downloadurl>
+		</downloads>
+		<sha512>bc0bfdb430ab096275a3196c08d44be56f3e1c60e9c8292faa474ba6a520ad86083861395066722f8dc0864aaa8e7e8dc6039e71f25d8f0ab4eb7446423e6101</sha512>
+		<targetplatform name="joomla" version="(5|6)\..*"/>
+		<php_minimum>8.1</php_minimum>
+		<maintainer>Terjemah</maintainer>
+	</update>
+</updates>
