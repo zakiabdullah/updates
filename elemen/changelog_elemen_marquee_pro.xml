@@ -3,6 +3,15 @@
 	<changelog>
 		<element>elemen_marquee_pro</element>
 		<type>plugin</type>
+		<version>0.14.1</version>
+		<fix>
+			<item><![CDATA[Links work on every item on screen. The copies that fill the row were not clickable, so with few items most of the links on screen did nothing. Copies stay hidden from screen readers and are skipped by the Tab key.]]></item>
+			<item><![CDATA[Linked items fade slightly on hover and show a focus ring for keyboard users.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>elemen_marquee_pro</element>
+		<type>plugin</type>
 		<version>0.12.2</version>
 		<change>
 			<item><![CDATA[The pause button's Pause and Play labels come from the plugin's language files.]]></item>

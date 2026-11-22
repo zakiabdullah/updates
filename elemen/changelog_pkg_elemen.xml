@@ -3,7 +3,7 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
-		<version>0.14.0</version>
+		<version>0.14.1</version>
 		<note>
 			<item><![CDATA[Countdown Pro 0.12.2]]></item>
 			<item><![CDATA[Counter Pro 0.11.0]]></item>
@@ -11,7 +11,7 @@
 			<item><![CDATA[Grid Pro 0.12.2]]></item>
 			<item><![CDATA[Heading Pro 0.12.0]]></item>
 			<item><![CDATA[Icon Pro 0.14.0]]></item>
-			<item><![CDATA[Marquee Pro 0.12.2]]></item>
+			<item><![CDATA[Marquee Pro 0.14.1]]></item>
 			<item><![CDATA[Progress Bar Pro 0.7.0]]></item>
 			<item><![CDATA[Shape Dividers Pro 0.8.0]]></item>
 			<item><![CDATA[Tabs Pro 0.11.0]]></item>
