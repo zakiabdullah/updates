@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
 	<update>
-		<name>Elemen: Animated Background Pro 0.15.1</name>
-		<description>Elemen 0.15.2</description>
+		<name>Elemen: Marquee Pro 0.16.0</name>
+		<description>Elemen: Marquee Pro 0.16.0 0.16.0</description>
 		<element>pkg_elemen</element>
 		<type>package</type>
 		<client>site</client>
-		<version>0.15.2</version>
+		<version>0.16.0</version>
 		<infourl title="Elemen">https://updates.webmonsta.com/elemen</infourl>
 		<changelogurl>https://updates.webmonsta.com/elemen/changelog_pkg_elemen.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-0.15.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-0.16.0.zip</downloadurl>
 		</downloads>
-		<sha512>6f179424e09542be8edbd542bebe90690337d0486e1492a78865f4fe9972e374cffb9e7791b6719792b293c2ed941decc69883b38eff9c45fe85876ab9a855ff</sha512>
+		<sha512>72c6b91e94a67c55b3c145646ec96a439dec2dac7d1b77ad1b8457180c10e8b66a818cc8c292ae75afe626554c949f8e1fbfae2d3dbe8a3a2838636cc7c19cb7</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>

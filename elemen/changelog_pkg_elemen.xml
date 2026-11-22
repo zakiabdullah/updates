@@ -3,6 +3,14 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>0.16.0</version>
+		<addition>
+			<item><![CDATA[Marquee Pro 0.16.0: Display options in the Content tab, as in YOOtheme's own elements: show or hide the text, images, icons and links of all items without deleting them, e.g. logos only. Linked items without their text keep it as a name for screen readers.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>0.15.2</version>
 		<fix>
 			<item><![CDATA[Animated Background Pro 0.15.1: Shape Dividers in a section with an animated background dropped into the content as white bands instead of sitting on the section's edges. Content that is positioned on purpose now keeps its position, and dividers always show above the animation.]]></item>
