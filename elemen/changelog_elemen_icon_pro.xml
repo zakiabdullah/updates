@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>elemen_icon_pro</element>
+		<type>plugin</type>
+		<version>0.10.0</version>
+		<addition>
+			<item><![CDATA[First release: Lucide 1.70.0 icons (2,029, plus 293 older names), UIkit icons and your own images, in a row or grid with labels, links, tooltips and their own colors. Shapes (circle, square, rounded, blob) that are filled, soft, outline or gradient, line weight, gradient and soft-fill icons. Icons that draw themselves, fade, zoom or rise into view, hover effects (spin, bounce, pulse, shake, lift, fill) and looping pulse, float, wiggle or morph. Only the icons used are in the page, as inline SVG. A searchable gallery with Malay and English words copies an icon's name.]]></item>
+		</addition>
+	</changelog>
+</changelogs>
