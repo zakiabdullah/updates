@@ -4,18 +4,190 @@
 		<element>pkg_elemen</element>
 		<type>package</type>
 		<version>0.14.1</version>
+		<fix>
+			<item><![CDATA[Marquee Pro 0.14.1: Links work on every item on screen. The copies that fill the row were not clickable, so with few items most of the links on screen did nothing. Copies stay hidden from screen readers and are skipped by the Tab key.]]></item>
+			<item><![CDATA[Marquee Pro 0.14.1: Linked items fade slightly on hover and show a focus ring for keyboard users.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.14.0</version>
+		<addition>
+			<item><![CDATA[Icon Pro 0.14.0: Icon fonts such as Flaticon UIcons, Font Awesome or Bootstrap Icons: add their stylesheet URLs in the plugin options (System → Plugins → Icon Pro), then write class: and the icon's classes in any icon field, e.g. class:fi fi-rr-home. The stylesheets load only on pages that show such an icon. Works in Icon Pro, in the Lucide Icon fields of the other elements and in YOOtheme menus. Colours (gradients fill the glyph), sizes, shapes, hover and looping animations apply; drawing, line weight and duotone are for Lucide icons.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.13.0</version>
+		<addition>
+			<item><![CDATA[Icon Pro 0.13.0: Lucide icons in YOOtheme menus: menu items get a Lucide Icon field after their Icon field (with the icon picker), and the icon shows in every menu type (navbar, dropdown, offcanvas, icon nav, subnav) with the same size and spacing as YOOtheme's own icons.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.12.2</version>
+		<change>
+			<item><![CDATA[Countdown Pro 0.12.2: Day, hour, minute and second labels come from the plugin's language files (English and Malay), so other languages can be added with Joomla's Language Overrides.]]></item>
+			<item><![CDATA[Grid Pro 0.12.2: Labels shown to visitors (All, Search, Load more, no results) come from the plugin's language files (English and Malay), so other languages can be added with Joomla's Language Overrides. The element's own label fields still take priority.]]></item>
+			<item><![CDATA[Icon Pro 0.12.2: The icon gallery and the builder's icon picker are in English only. Malay search words (rumah, kedai, telefon, …) still find icons.]]></item>
+			<item><![CDATA[Marquee Pro 0.12.2: The pause button's Pause and Play labels come from the plugin's language files.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.12.1</version>
+		<fix>
+			<item><![CDATA[Icon Pro 0.12.1: Icon picker in the builder: the gallery says that a click chooses the icon, the search box has the focus when it opens, and the close button no longer sits on the scroll bar.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.12.0</version>
+		<addition>
+			<item><![CDATA[Heading Pro 0.12.0: Lucide Icon field, with Icon Pro installed: a Lucide icon instead of the UIkit icon.]]></item>
+			<item><![CDATA[Icon Pro 0.12.0: Icon picker in the builder: the "Open the icon gallery" link under an icon field opens the gallery in a dialog over the builder, and clicking an icon fills the field. Escape or a click outside closes it.]]></item>
+			<item><![CDATA[Icon Pro 0.12.0: Lucide Icon fields for Heading Pro and Marquee Pro (item icon and separator icon).]]></item>
+			<item><![CDATA[Marquee Pro 0.12.0: Lucide Icon fields, with Icon Pro installed: Lucide icons for the items and the separator.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.11.0</version>
+		<addition>
+			<item><![CDATA[Counter Pro 0.11.0: Lucide Icon field, with Icon Pro installed: a Lucide icon instead of the UIkit icon.]]></item>
+			<item><![CDATA[Flip Box Pro 0.11.0: Lucide Icon fields, with Icon Pro installed: Lucide icons instead of the UIkit icons for the item and for the back list.]]></item>
+			<item><![CDATA[Icon Pro 0.11.0: Other Elemen elements can use Lucide icons: Icon Pro adds a Lucide Icon field after the icon fields of Counter Pro, Flip Box Pro (item icon and back list icon), Timeline Pro (marker icons) and Tabs Pro.]]></item>
+			<item><![CDATA[Icon Pro 0.11.0: Icon gallery: the picked icon stays in a bar at the bottom, to copy its name, copy it as SVG or download an .svg file, in a chosen color and line weight, for YOOtheme's own elements (image fields, HTML element).]]></item>
+			<item><![CDATA[Tabs Pro 0.11.0: Lucide Icon field, with Icon Pro installed: a Lucide icon in the title instead of the UIkit icon.]]></item>
+			<item><![CDATA[Timeline Pro 0.11.0: Lucide Icon fields, with Icon Pro installed: Lucide icons as markers, for the default marker icon and for each item.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.10.0</version>
+		<addition>
+			<item><![CDATA[Icon Pro 0.10.0: First release: Lucide 1.70.0 icons (2,029, plus 293 older names), UIkit icons and your own images, in a row or grid with labels, links, tooltips and their own colors. Shapes (circle, square, rounded, blob) that are filled, soft, outline or gradient, line weight, gradient and soft-fill icons. Icons that draw themselves, fade, zoom or rise into view, hover effects (spin, bounce, pulse, shake, lift, fill) and looping pulse, float, wiggle or morph. Only the icons used are in the page, as inline SVG. A searchable gallery with Malay and English words copies an icon's name.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.9.0</version>
+		<addition>
+			<item><![CDATA[Countdown Pro 0.9.0: First release: count down to a date and time in the site's time zone, to a time every day, or an evergreen countdown that starts on each visitor's first visit (and can start again). Plain, boxes, progress circles or flip cards, a choice of units, labels in Malay or English, and when time is up hide the countdown, show a message or go to a page.]]></item>
+			<item><![CDATA[Grid Pro 0.9.0: First release: grid, masonry or bento layouts (wide, tall and large items), columns per screen size and a swipe carousel on phones. A tag filter with animated reordering, a search box and a Load more button. Cards with the text below or over the image, and zoom, lift or tilt on hover. Items can come from dynamic content, e.g. one per article with its tags as filters.]]></item>
+			<item><![CDATA[Marquee Pro 0.9.0: First release: text, icons or logos scrolling without end, to the left or right or in two rows going opposite ways. Speed in pixels per second, pause or slow down on hover, faded edges, separators, outline text, grey logos that turn to color on hover, and a tilted ribbon with a background. Visitors who prefer less motion get a row they can scroll themselves.]]></item>
+			<item><![CDATA[Tabs Pro 0.9.0: First release: tabs or an accordion in one element. Tabs turn into an accordion below 640px or 960px. Underline, pill and segmented tab styles with a sliding indicator, tabs across the top or down the side, icons, step numbers and badges in the titles. A link to #name opens that tab, and the browser's find in page opens the tab holding the match.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.8.0</version>
+		<addition>
+			<item><![CDATA[Shape Dividers Pro 0.8.0: Shape dividers for columns: the same Shape Divider panel in the Column settings, with a top and a bottom shape inside the column's tile, card, background color, image or video box. Color Auto takes the background of the section around the column, so the shape looks cut out of it. Rounded card corners are kept; the default height is 60px.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.7.1</version>
+		<change>
+			<item><![CDATA[Shape Dividers Pro 0.7.1: Renamed to Shape Dividers Pro, to match the other elements. The plugin is now plg_system_elemen_shapes_pro; installing it disables the old plg_system_elemen_shapes, which can then be uninstalled. Section settings and saved layouts stay as they are.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.7.0</version>
 		<note>
-			<item><![CDATA[Countdown Pro 0.12.2]]></item>
-			<item><![CDATA[Counter Pro 0.11.0]]></item>
-			<item><![CDATA[Flip Box Pro 0.11.0]]></item>
-			<item><![CDATA[Grid Pro 0.12.2]]></item>
-			<item><![CDATA[Heading Pro 0.12.0]]></item>
-			<item><![CDATA[Icon Pro 0.14.0]]></item>
-			<item><![CDATA[Marquee Pro 0.14.1]]></item>
-			<item><![CDATA[Progress Bar Pro 0.7.0]]></item>
-			<item><![CDATA[Shape Dividers Pro 0.8.0]]></item>
-			<item><![CDATA[Tabs Pro 0.11.0]]></item>
-			<item><![CDATA[Timeline Pro 0.11.0]]></item>
+			<item><![CDATA[Counter Pro 0.7.0: No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.]]></item>
+			<item><![CDATA[Flip Box Pro 0.7.0: No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.]]></item>
+			<item><![CDATA[Heading Pro 0.7.0: No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.]]></item>
+			<item><![CDATA[Progress Bar Pro 0.7.0: No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.]]></item>
+			<item><![CDATA[Timeline Pro 0.7.0: No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.]]></item>
 		</note>
+		<addition>
+			<item><![CDATA[Shape Dividers Pro 0.7.0: First release: a Shape Divider panel for YOOtheme's Section, opened from its Settings tab, with a top and a bottom shape: 17 original shapes (waves, curves, tilts, triangles, arrows, clouds, mountains and more, some layered).]]></item>
+			<item><![CDATA[Shape Dividers Pro 0.7.0: Color Auto (the default) takes the background of the neighbouring section: its style, background color or gradient, or the media background color. Default, Muted, Primary, Secondary and Custom colors too.]]></item>
+			<item><![CDATA[Shape Dividers Pro 0.7.0: Height (and height on phones), width up to 300%, flip, invert and in front of the content.]]></item>
+			<item><![CDATA[Shape Dividers Pro 0.7.0: Custom SVG: an SVG file from the site, cleaned of scripts and outside references, and stretched like the built-in shapes.]]></item>
+			<item><![CDATA[Shape Dividers Pro 0.7.0: Sway and Breathe animations (slow, medium, fast), off with reduced motion.]]></item>
+			<item><![CDATA[Shape Dividers Pro 0.7.0: Hide below 640px or 960px.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.6.0</version>
+		<addition>
+			<item><![CDATA[Counter Pro 0.6.0: Count Style Odometer: each digit rolls into place, while separators, decimals and short-form letters stay put.]]></item>
+			<item><![CDATA[Flip Box Pro 0.6.0: Back List: one feature per line on the back, shown with an icon and color set on the element.]]></item>
+			<item><![CDATA[Heading Pro 0.6.0: Words in {braces} in the text before or after the highlight become extra highlights, with the same style and drawn shape.]]></item>
+			<item><![CDATA[Progress Bar Pro 0.6.0: Label position "Value in a bubble": a bubble that travels with the end of the bar. Goal marks sit on the bar below it.]]></item>
+			<item><![CDATA[Timeline Pro 0.6.0: Item Group (for example a year): a label on the line where the group changes, optionally sticky while scrolling through the group.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.5.0</version>
+		<addition>
+			<item><![CDATA[Counter Pro 0.5.0: Number Format Short (1.3K, 3.4M) and Malay (1.3 ribu, 1.3 juta), counted in the same format.]]></item>
+			<item><![CDATA[Counter Pro 0.4.0: Multiple counters in one element: content per item, style and grid settings once on the element. Grid columns per screen size, matching heights and a delay between items.]]></item>
+			<item><![CDATA[Counter Pro 0.4.0: Each item can set its own number color.]]></item>
+			<item><![CDATA[Flip Box Pro 0.5.0: 3D Depth: the content floats above the box while it turns (flip effects only).]]></item>
+			<item><![CDATA[Flip Box Pro 0.4.0: Multiple flip boxes in one element: content per item, style and grid settings once on the element. Grid columns per screen size, matching heights and a delay between items.]]></item>
+			<item><![CDATA[Flip Box Pro 0.4.0: Each item can set its own front and back background and text color.]]></item>
+			<item><![CDATA[Heading Pro 0.5.0: Text Reveal: the heading appears word by word or letter by letter (fade up, fade, blur, slide, zoom) when it scrolls into view. The highlight stays whole.]]></item>
+			<item><![CDATA[Progress Bar Pro 0.5.0: Goal and Goal Label per item, drawn as a mark on bars and a radial tick on circles and half circles, with a goal color.]]></item>
+			<item><![CDATA[Timeline Pro 0.5.0: Horizontal layout: items side by side with sideways scrolling and snap, the date above the line and previous/next buttons that hide when everything fits.]]></item>
+		</addition>
+		<change>
+			<item><![CDATA[Counter Pro 0.5.0: Malay short numbers keep the number and word on one line (no-break space).]]></item>
+			<item><![CDATA[Counter Pro 0.5.0: Mirrors correctly in right-to-left languages.]]></item>
+			<item><![CDATA[Counter Pro 0.4.0: Layouts made with 0.3 are converted when they load: the counter becomes the first item, so pages look the same.]]></item>
+			<item><![CDATA[Flip Box Pro 0.5.0: The item's Content tab is a plain list of fields, with Front and Back in the labels, so editors and image pickers get the full width.]]></item>
+			<item><![CDATA[Flip Box Pro 0.5.0: The slide-left effect follows the text direction in right-to-left languages.]]></item>
+			<item><![CDATA[Flip Box Pro 0.4.0: Layouts made with 0.3 are converted when they load: the box becomes the first item, so pages look the same.]]></item>
+			<item><![CDATA[Heading Pro 0.5.0: Letter mode falls back to words for joined scripts such as Arabic and Jawi, and screen readers get the whole heading through aria-label.]]></item>
+			<item><![CDATA[Heading Pro 0.5.0: Mirrors correctly in right-to-left languages.]]></item>
+			<item><![CDATA[Timeline Pro 0.5.0: Mirrors correctly in right-to-left languages, including the reveal animation.]]></item>
+		</change>
+		<note>
+			<item><![CDATA[Heading Pro 0.4.0: No changes to this element; version follows the shared Elemen 0.4.0 release.]]></item>
+			<item><![CDATA[Progress Bar Pro 0.4.0: No changes to this element; version follows the shared Elemen 0.4.0 release.]]></item>
+			<item><![CDATA[Timeline Pro 0.4.0: No changes to this element; version follows the shared Elemen 0.4.0 release.]]></item>
+		</note>
+		<fix>
+			<item><![CDATA[Progress Bar Pro 0.5.0: Labels inside the bar stay readable in dark (inverse) sections.]]></item>
+			<item><![CDATA[Progress Bar Pro 0.5.0: Nothing is output, assets included, when every item is empty.]]></item>
+			<item><![CDATA[Timeline Pro 0.5.0: Line segments stop at the marker edges, so outline and not-yet-reached markers are hollow on any background.]]></item>
+			<item><![CDATA[Timeline Pro 0.5.0: Markers use dark text in dark (inverse) sections.]]></item>
+			<item><![CDATA[Timeline Pro 0.5.0: Nothing is output, assets included, when every item is empty.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
+		<version>0.3.0</version>
+		<addition>
+			<item><![CDATA[Counter Pro 0.3.0: First release: count-up numbers with prefix and suffix, separators, decimals, gradient, icon layouts and card styles.]]></item>
+			<item><![CDATA[Flip Box Pro 0.3.0: First release: a two-sided box with flip, slide, fade and zoom effects on hover, keyboard focus, click or tap.]]></item>
+			<item><![CDATA[Heading Pro 0.2.0: First release: a YOOtheme Headline with a highlighted part in a second color, gradient, animated gradient, outline or marker; drawn SVG shapes or rotating words (typewriter, fade, slide, flip, clip, zoom); kicker and background text.]]></item>
+			<item><![CDATA[Heading Pro 0.2.0: CSS and JavaScript load only on pages that use the element, and respect reduced motion.]]></item>
+			<item><![CDATA[Progress Bar Pro 0.3.0: First release: bars, circles and half circles with counting values, stripes, gradients, per-item colors and grid columns.]]></item>
+			<item><![CDATA[Timeline Pro 0.3.0: First release: left, right or alternating timeline, dot, icon or number markers, a line that fills as you scroll and reveal animations.]]></item>
+		</addition>
+		<change>
+			<item><![CDATA[Heading Pro 0.3.0: Heading Pro is now its own plugin, plg_system_elemen_heading_pro, installable on its own.]]></item>
+		</change>
 	</changelog>
 </changelogs>
