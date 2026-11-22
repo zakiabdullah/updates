@@ -5,7 +5,7 @@
 		<type>plugin</type>
 		<version>0.8.0</version>
 		<addition>
-			<item>Shape dividers for columns: the same Shape Divider panel in the Column settings, with a top and a bottom shape inside the column&apos;s tile, card, background color, image or video box. Color Auto takes the background of the section around the column, so the shape looks cut out of it. Rounded card corners are kept; the default height is 60px.</item>
+			<item><![CDATA[Shape dividers for columns: the same Shape Divider panel in the Column settings, with a top and a bottom shape inside the column's tile, card, background color, image or video box. Color Auto takes the background of the section around the column, so the shape looks cut out of it. Rounded card corners are kept; the default height is 60px.]]></item>
 		</addition>
 	</changelog>
 	<changelog>
@@ -13,7 +13,7 @@
 		<type>plugin</type>
 		<version>0.7.1</version>
 		<change>
-			<item>Renamed to Shape Dividers Pro, to match the other elements. The plugin is now plg_system_elemen_shapes_pro; installing it disables the old plg_system_elemen_shapes, which can then be uninstalled. Section settings and saved layouts stay as they are.</item>
+			<item><![CDATA[Renamed to Shape Dividers Pro, to match the other elements. The plugin is now plg_system_elemen_shapes_pro; installing it disables the old plg_system_elemen_shapes, which can then be uninstalled. Section settings and saved layouts stay as they are.]]></item>
 		</change>
 	</changelog>
 	<changelog>
@@ -21,12 +21,12 @@
 		<type>plugin</type>
 		<version>0.7.0</version>
 		<addition>
-			<item>First release: a Shape Divider panel for YOOtheme&apos;s Section, opened from its Settings tab, with a top and a bottom shape: 17 original shapes (waves, curves, tilts, triangles, arrows, clouds, mountains and more, some layered).</item>
-			<item>Color Auto (the default) takes the background of the neighbouring section: its style, background color or gradient, or the media background color. Default, Muted, Primary, Secondary and Custom colors too.</item>
-			<item>Height (and height on phones), width up to 300%, flip, invert and in front of the content.</item>
-			<item>Custom SVG: an SVG file from the site, cleaned of scripts and outside references, and stretched like the built-in shapes.</item>
-			<item>Sway and Breathe animations (slow, medium, fast), off with reduced motion.</item>
-			<item>Hide below 640px or 960px.</item>
+			<item><![CDATA[First release: a Shape Divider panel for YOOtheme's Section, opened from its Settings tab, with a top and a bottom shape: 17 original shapes (waves, curves, tilts, triangles, arrows, clouds, mountains and more, some layered).]]></item>
+			<item><![CDATA[Color Auto (the default) takes the background of the neighbouring section: its style, background color or gradient, or the media background color. Default, Muted, Primary, Secondary and Custom colors too.]]></item>
+			<item><![CDATA[Height (and height on phones), width up to 300%, flip, invert and in front of the content.]]></item>
+			<item><![CDATA[Custom SVG: an SVG file from the site, cleaned of scripts and outside references, and stretched like the built-in shapes.]]></item>
+			<item><![CDATA[Sway and Breathe animations (slow, medium, fast), off with reduced motion.]]></item>
+			<item><![CDATA[Hide below 640px or 960px.]]></item>
 		</addition>
 	</changelog>
 </changelogs>

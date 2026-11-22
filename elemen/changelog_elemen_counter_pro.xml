@@ -5,7 +5,7 @@
 		<type>plugin</type>
 		<version>0.7.0</version>
 		<note>
-			<item>No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.</item>
+			<item><![CDATA[No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.]]></item>
 		</note>
 	</changelog>
 	<changelog>
@@ -13,7 +13,7 @@
 		<type>plugin</type>
 		<version>0.6.0</version>
 		<addition>
-			<item>Count Style Odometer: each digit rolls into place, while separators, decimals and short-form letters stay put.</item>
+			<item><![CDATA[Count Style Odometer: each digit rolls into place, while separators, decimals and short-form letters stay put.]]></item>
 		</addition>
 	</changelog>
 	<changelog>
@@ -21,11 +21,11 @@
 		<type>plugin</type>
 		<version>0.5.0</version>
 		<addition>
-			<item>Number Format Short (1.3K, 3.4M) and Malay (1.3 ribu, 1.3 juta), counted in the same format.</item>
+			<item><![CDATA[Number Format Short (1.3K, 3.4M) and Malay (1.3 ribu, 1.3 juta), counted in the same format.]]></item>
 		</addition>
 		<change>
-			<item>Malay short numbers keep the number and word on one line (no-break space).</item>
-			<item>Mirrors correctly in right-to-left languages.</item>
+			<item><![CDATA[Malay short numbers keep the number and word on one line (no-break space).]]></item>
+			<item><![CDATA[Mirrors correctly in right-to-left languages.]]></item>
 		</change>
 	</changelog>
 	<changelog>
@@ -33,11 +33,11 @@
 		<type>plugin</type>
 		<version>0.4.0</version>
 		<addition>
-			<item>Multiple counters in one element: content per item, style and grid settings once on the element. Grid columns per screen size, matching heights and a delay between items.</item>
-			<item>Each item can set its own number color.</item>
+			<item><![CDATA[Multiple counters in one element: content per item, style and grid settings once on the element. Grid columns per screen size, matching heights and a delay between items.]]></item>
+			<item><![CDATA[Each item can set its own number color.]]></item>
 		</addition>
 		<change>
-			<item>Layouts made with 0.3 are converted when they load: the counter becomes the first item, so pages look the same.</item>
+			<item><![CDATA[Layouts made with 0.3 are converted when they load: the counter becomes the first item, so pages look the same.]]></item>
 		</change>
 	</changelog>
 	<changelog>
@@ -45,7 +45,7 @@
 		<type>plugin</type>
 		<version>0.3.0</version>
 		<addition>
-			<item>First release: count-up numbers with prefix and suffix, separators, decimals, gradient, icon layouts and card styles.</item>
+			<item><![CDATA[First release: count-up numbers with prefix and suffix, separators, decimals, gradient, icon layouts and card styles.]]></item>
 		</addition>
 	</changelog>
 </changelogs>

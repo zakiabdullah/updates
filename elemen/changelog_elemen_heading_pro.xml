@@ -5,7 +5,7 @@
 		<type>plugin</type>
 		<version>0.7.0</version>
 		<note>
-			<item>No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.</item>
+			<item><![CDATA[No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.]]></item>
 		</note>
 	</changelog>
 	<changelog>
@@ -13,7 +13,7 @@
 		<type>plugin</type>
 		<version>0.6.0</version>
 		<addition>
-			<item>Words in {braces} in the text before or after the highlight become extra highlights, with the same style and drawn shape.</item>
+			<item><![CDATA[Words in {braces} in the text before or after the highlight become extra highlights, with the same style and drawn shape.]]></item>
 		</addition>
 	</changelog>
 	<changelog>
@@ -21,11 +21,11 @@
 		<type>plugin</type>
 		<version>0.5.0</version>
 		<addition>
-			<item>Text Reveal: the heading appears word by word or letter by letter (fade up, fade, blur, slide, zoom) when it scrolls into view. The highlight stays whole.</item>
+			<item><![CDATA[Text Reveal: the heading appears word by word or letter by letter (fade up, fade, blur, slide, zoom) when it scrolls into view. The highlight stays whole.]]></item>
 		</addition>
 		<change>
-			<item>Letter mode falls back to words for joined scripts such as Arabic and Jawi, and screen readers get the whole heading through aria-label.</item>
-			<item>Mirrors correctly in right-to-left languages.</item>
+			<item><![CDATA[Letter mode falls back to words for joined scripts such as Arabic and Jawi, and screen readers get the whole heading through aria-label.]]></item>
+			<item><![CDATA[Mirrors correctly in right-to-left languages.]]></item>
 		</change>
 	</changelog>
 	<changelog>
@@ -33,7 +33,7 @@
 		<type>plugin</type>
 		<version>0.4.0</version>
 		<note>
-			<item>No changes to this element; version follows the shared Elemen 0.4.0 release.</item>
+			<item><![CDATA[No changes to this element; version follows the shared Elemen 0.4.0 release.]]></item>
 		</note>
 	</changelog>
 	<changelog>
@@ -41,7 +41,7 @@
 		<type>plugin</type>
 		<version>0.3.0</version>
 		<change>
-			<item>Heading Pro is now its own plugin, plg_system_elemen_heading_pro, installable on its own.</item>
+			<item><![CDATA[Heading Pro is now its own plugin, plg_system_elemen_heading_pro, installable on its own.]]></item>
 		</change>
 	</changelog>
 	<changelog>
@@ -49,8 +49,8 @@
 		<type>plugin</type>
 		<version>0.2.0</version>
 		<addition>
-			<item>First release: a YOOtheme Headline with a highlighted part in a second color, gradient, animated gradient, outline or marker; drawn SVG shapes or rotating words (typewriter, fade, slide, flip, clip, zoom); kicker and background text.</item>
-			<item>CSS and JavaScript load only on pages that use the element, and respect reduced motion.</item>
+			<item><![CDATA[First release: a YOOtheme Headline with a highlighted part in a second color, gradient, animated gradient, outline or marker; drawn SVG shapes or rotating words (typewriter, fade, slide, flip, clip, zoom); kicker and background text.]]></item>
+			<item><![CDATA[CSS and JavaScript load only on pages that use the element, and respect reduced motion.]]></item>
 		</addition>
 	</changelog>
 </changelogs>

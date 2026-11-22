@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>elemen_countdown_pro</element>
+		<type>plugin</type>
+		<version>0.9.0</version>
+		<addition>
+			<item><![CDATA[First release: count down to a date and time in the site's time zone, to a time every day, or an evergreen countdown that starts on each visitor's first visit (and can start again). Plain, boxes, progress circles or flip cards, a choice of units, labels in Malay or English, and when time is up hide the countdown, show a message or go to a page.]]></item>
+		</addition>
+	</changelog>
+</changelogs>

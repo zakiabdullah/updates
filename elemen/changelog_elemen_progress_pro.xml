@@ -5,7 +5,7 @@
 		<type>plugin</type>
 		<version>0.7.0</version>
 		<note>
-			<item>No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.</item>
+			<item><![CDATA[No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.]]></item>
 		</note>
 	</changelog>
 	<changelog>
@@ -13,7 +13,7 @@
 		<type>plugin</type>
 		<version>0.6.0</version>
 		<addition>
-			<item>Label position &quot;Value in a bubble&quot;: a bubble that travels with the end of the bar. Goal marks sit on the bar below it.</item>
+			<item><![CDATA[Label position "Value in a bubble": a bubble that travels with the end of the bar. Goal marks sit on the bar below it.]]></item>
 		</addition>
 	</changelog>
 	<changelog>
@@ -21,11 +21,11 @@
 		<type>plugin</type>
 		<version>0.5.0</version>
 		<addition>
-			<item>Goal and Goal Label per item, drawn as a mark on bars and a radial tick on circles and half circles, with a goal color.</item>
+			<item><![CDATA[Goal and Goal Label per item, drawn as a mark on bars and a radial tick on circles and half circles, with a goal color.]]></item>
 		</addition>
 		<fix>
-			<item>Labels inside the bar stay readable in dark (inverse) sections.</item>
-			<item>Nothing is output, assets included, when every item is empty.</item>
+			<item><![CDATA[Labels inside the bar stay readable in dark (inverse) sections.]]></item>
+			<item><![CDATA[Nothing is output, assets included, when every item is empty.]]></item>
 		</fix>
 	</changelog>
 	<changelog>
@@ -33,7 +33,7 @@
 		<type>plugin</type>
 		<version>0.4.0</version>
 		<note>
-			<item>No changes to this element; version follows the shared Elemen 0.4.0 release.</item>
+			<item><![CDATA[No changes to this element; version follows the shared Elemen 0.4.0 release.]]></item>
 		</note>
 	</changelog>
 	<changelog>
@@ -41,7 +41,7 @@
 		<type>plugin</type>
 		<version>0.3.0</version>
 		<addition>
-			<item>First release: bars, circles and half circles with counting values, stripes, gradients, per-item colors and grid columns.</item>
+			<item><![CDATA[First release: bars, circles and half circles with counting values, stripes, gradients, per-item colors and grid columns.]]></item>
 		</addition>
 	</changelog>
 </changelogs>

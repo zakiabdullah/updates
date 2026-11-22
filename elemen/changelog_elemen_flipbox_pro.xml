@@ -5,7 +5,7 @@
 		<type>plugin</type>
 		<version>0.7.0</version>
 		<note>
-			<item>No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.</item>
+			<item><![CDATA[No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.]]></item>
 		</note>
 	</changelog>
 	<changelog>
@@ -13,7 +13,7 @@
 		<type>plugin</type>
 		<version>0.6.0</version>
 		<addition>
-			<item>Back List: one feature per line on the back, shown with an icon and color set on the element.</item>
+			<item><![CDATA[Back List: one feature per line on the back, shown with an icon and color set on the element.]]></item>
 		</addition>
 	</changelog>
 	<changelog>
@@ -21,11 +21,11 @@
 		<type>plugin</type>
 		<version>0.5.0</version>
 		<addition>
-			<item>3D Depth: the content floats above the box while it turns (flip effects only).</item>
+			<item><![CDATA[3D Depth: the content floats above the box while it turns (flip effects only).]]></item>
 		</addition>
 		<change>
-			<item>The item&apos;s Content tab is a plain list of fields, with Front and Back in the labels, so editors and image pickers get the full width.</item>
-			<item>The slide-left effect follows the text direction in right-to-left languages.</item>
+			<item><![CDATA[The item's Content tab is a plain list of fields, with Front and Back in the labels, so editors and image pickers get the full width.]]></item>
+			<item><![CDATA[The slide-left effect follows the text direction in right-to-left languages.]]></item>
 		</change>
 	</changelog>
 	<changelog>
@@ -33,11 +33,11 @@
 		<type>plugin</type>
 		<version>0.4.0</version>
 		<addition>
-			<item>Multiple flip boxes in one element: content per item, style and grid settings once on the element. Grid columns per screen size, matching heights and a delay between items.</item>
-			<item>Each item can set its own front and back background and text color.</item>
+			<item><![CDATA[Multiple flip boxes in one element: content per item, style and grid settings once on the element. Grid columns per screen size, matching heights and a delay between items.]]></item>
+			<item><![CDATA[Each item can set its own front and back background and text color.]]></item>
 		</addition>
 		<change>
-			<item>Layouts made with 0.3 are converted when they load: the box becomes the first item, so pages look the same.</item>
+			<item><![CDATA[Layouts made with 0.3 are converted when they load: the box becomes the first item, so pages look the same.]]></item>
 		</change>
 	</changelog>
 	<changelog>
@@ -45,7 +45,7 @@
 		<type>plugin</type>
 		<version>0.3.0</version>
 		<addition>
-			<item>First release: a two-sided box with flip, slide, fade and zoom effects on hover, keyboard focus, click or tap.</item>
+			<item><![CDATA[First release: a two-sided box with flip, slide, fade and zoom effects on hover, keyboard focus, click or tap.]]></item>
 		</addition>
 	</changelog>
 </changelogs>

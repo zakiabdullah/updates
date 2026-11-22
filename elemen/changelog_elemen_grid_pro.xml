@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>elemen_grid_pro</element>
+		<type>plugin</type>
+		<version>0.9.0</version>
+		<addition>
+			<item><![CDATA[First release: grid, masonry or bento layouts (wide, tall and large items), columns per screen size and a swipe carousel on phones. A tag filter with animated reordering, a search box and a Load more button. Cards with the text below or over the image, and zoom, lift or tilt on hover. Items can come from dynamic content, e.g. one per article with its tags as filters.]]></item>
+		</addition>
+	</changelog>
+</changelogs>

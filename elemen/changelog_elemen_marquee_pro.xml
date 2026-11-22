@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>elemen_marquee_pro</element>
+		<type>plugin</type>
+		<version>0.9.0</version>
+		<addition>
+			<item><![CDATA[First release: text, icons or logos scrolling without end, to the left or right or in two rows going opposite ways. Speed in pixels per second, pause or slow down on hover, faded edges, separators, outline text, grey logos that turn to color on hover, and a tilted ribbon with a background. Visitors who prefer less motion get a row they can scroll themselves.]]></item>
+		</addition>
+	</changelog>
+</changelogs>

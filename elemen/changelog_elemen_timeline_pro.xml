@@ -5,7 +5,7 @@
 		<type>plugin</type>
 		<version>0.7.0</version>
 		<note>
-			<item>No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.</item>
+			<item><![CDATA[No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.]]></item>
 		</note>
 	</changelog>
 	<changelog>
@@ -13,7 +13,7 @@
 		<type>plugin</type>
 		<version>0.6.0</version>
 		<addition>
-			<item>Item Group (for example a year): a label on the line where the group changes, optionally sticky while scrolling through the group.</item>
+			<item><![CDATA[Item Group (for example a year): a label on the line where the group changes, optionally sticky while scrolling through the group.]]></item>
 		</addition>
 	</changelog>
 	<changelog>
@@ -21,15 +21,15 @@
 		<type>plugin</type>
 		<version>0.5.0</version>
 		<addition>
-			<item>Horizontal layout: items side by side with sideways scrolling and snap, the date above the line and previous/next buttons that hide when everything fits.</item>
+			<item><![CDATA[Horizontal layout: items side by side with sideways scrolling and snap, the date above the line and previous/next buttons that hide when everything fits.]]></item>
 		</addition>
 		<fix>
-			<item>Line segments stop at the marker edges, so outline and not-yet-reached markers are hollow on any background.</item>
-			<item>Markers use dark text in dark (inverse) sections.</item>
-			<item>Nothing is output, assets included, when every item is empty.</item>
+			<item><![CDATA[Line segments stop at the marker edges, so outline and not-yet-reached markers are hollow on any background.]]></item>
+			<item><![CDATA[Markers use dark text in dark (inverse) sections.]]></item>
+			<item><![CDATA[Nothing is output, assets included, when every item is empty.]]></item>
 		</fix>
 		<change>
-			<item>Mirrors correctly in right-to-left languages, including the reveal animation.</item>
+			<item><![CDATA[Mirrors correctly in right-to-left languages, including the reveal animation.]]></item>
 		</change>
 	</changelog>
 	<changelog>
@@ -37,7 +37,7 @@
 		<type>plugin</type>
 		<version>0.4.0</version>
 		<note>
-			<item>No changes to this element; version follows the shared Elemen 0.4.0 release.</item>
+			<item><![CDATA[No changes to this element; version follows the shared Elemen 0.4.0 release.]]></item>
 		</note>
 	</changelog>
 	<changelog>
@@ -45,7 +45,7 @@
 		<type>plugin</type>
 		<version>0.3.0</version>
 		<addition>
-			<item>First release: left, right or alternating timeline, dot, icon or number markers, a line that fills as you scroll and reveal animations.</item>
+			<item><![CDATA[First release: left, right or alternating timeline, dot, icon or number markers, a line that fills as you scroll and reveal animations.]]></item>
 		</addition>
 	</changelog>
 </changelogs>
