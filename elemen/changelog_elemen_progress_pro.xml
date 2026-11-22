@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_progress_pro</element>
 		<type>plugin</type>
+		<version>0.17.0</version>
+		<addition>
+			<item><![CDATA[Display options in the Content tab, as in YOOtheme's own elements: show or hide the title, content and goal of all items without deleting them.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_progress_pro</element>
+		<type>plugin</type>
 		<version>0.7.0</version>
 		<note>
 			<item><![CDATA[No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.]]></item>

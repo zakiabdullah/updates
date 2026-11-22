@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_timeline_pro</element>
 		<type>plugin</type>
+		<version>0.17.0</version>
+		<addition>
+			<item><![CDATA[Display options in the Content tab, as in YOOtheme's own elements: show or hide the title, meta text, content, image and link of all items without deleting them.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_timeline_pro</element>
+		<type>plugin</type>
 		<version>0.11.0</version>
 		<addition>
 			<item><![CDATA[Lucide Icon fields, with Icon Pro installed: Lucide icons as markers, for the default marker icon and for each item.]]></item>

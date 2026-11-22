@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_flipbox_pro</element>
 		<type>plugin</type>
+		<version>0.17.0</version>
+		<addition>
+			<item><![CDATA[Display options in the Content tab, as in YOOtheme's own elements: show or hide the front title, front content, image, icon, back title, back content, back list and link of all items without deleting them.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_flipbox_pro</element>
+		<type>plugin</type>
 		<version>0.11.0</version>
 		<addition>
 			<item><![CDATA[Lucide Icon fields, with Icon Pro installed: Lucide icons instead of the UIkit icons for the item and for the back list.]]></item>

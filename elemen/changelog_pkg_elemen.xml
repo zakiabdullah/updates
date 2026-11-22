@@ -3,6 +3,20 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>0.17.0</version>
+		<addition>
+			<item><![CDATA[Counter Pro 0.17.0: Display options in the Content tab, as in YOOtheme's own elements: show or hide the title, meta text, content, image, icon and link of all items without deleting them.]]></item>
+			<item><![CDATA[Flip Box Pro 0.17.0: Display options in the Content tab, as in YOOtheme's own elements: show or hide the front title, front content, image, icon, back title, back content, back list and link of all items without deleting them.]]></item>
+			<item><![CDATA[Grid Pro 0.17.0: Display options in the Content tab, as in YOOtheme's own elements: show or hide the title, meta text, content, image and link of all items without deleting them.]]></item>
+			<item><![CDATA[Icon Pro 0.17.0: Display options in the Content tab, as in YOOtheme's own elements: show or hide the label, tooltip and link of all items without deleting them.]]></item>
+			<item><![CDATA[Progress Bar Pro 0.17.0: Display options in the Content tab, as in YOOtheme's own elements: show or hide the title, content and goal of all items without deleting them.]]></item>
+			<item><![CDATA[Tabs Pro 0.17.0: Display options in the Content tab, as in YOOtheme's own elements: show or hide the badge, icon, image and link of all items without deleting them.]]></item>
+			<item><![CDATA[Timeline Pro 0.17.0: Display options in the Content tab, as in YOOtheme's own elements: show or hide the title, meta text, content, image and link of all items without deleting them.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>0.16.0</version>
 		<addition>
 			<item><![CDATA[Marquee Pro 0.16.0: Display options in the Content tab, as in YOOtheme's own elements: show or hide the text, images, icons and links of all items without deleting them, e.g. logos only. Linked items without their text keep it as a name for screen readers.]]></item>
