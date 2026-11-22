@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_icon_pro</element>
 		<type>plugin</type>
+		<version>0.12.2</version>
+		<change>
+			<item><![CDATA[The icon gallery and the builder's icon picker are in English only. Malay search words (rumah, kedai, telefon, …) still find icons.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>elemen_icon_pro</element>
+		<type>plugin</type>
 		<version>0.12.1</version>
 		<fix>
 			<item><![CDATA[Icon picker in the builder: the gallery says that a click chooses the icon, the search box has the focus when it opens, and the close button no longer sits on the scroll bar.]]></item>

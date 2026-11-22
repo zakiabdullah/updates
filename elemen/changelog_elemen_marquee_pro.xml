@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_marquee_pro</element>
 		<type>plugin</type>
+		<version>0.12.2</version>
+		<change>
+			<item><![CDATA[The pause button's Pause and Play labels come from the plugin's language files.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>elemen_marquee_pro</element>
+		<type>plugin</type>
 		<version>0.12.0</version>
 		<addition>
 			<item><![CDATA[Lucide Icon fields, with Icon Pro installed: Lucide icons for the items and the separator.]]></item>
