@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_counter_pro</element>
 		<type>plugin</type>
+		<version>0.11.0</version>
+		<addition>
+			<item><![CDATA[Lucide Icon field, with Icon Pro installed: a Lucide icon instead of the UIkit icon.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_counter_pro</element>
+		<type>plugin</type>
 		<version>0.7.0</version>
 		<note>
 			<item><![CDATA[No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.]]></item>

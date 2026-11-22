@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_timeline_pro</element>
 		<type>plugin</type>
+		<version>0.11.0</version>
+		<addition>
+			<item><![CDATA[Lucide Icon fields, with Icon Pro installed: Lucide icons as markers, for the default marker icon and for each item.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_timeline_pro</element>
+		<type>plugin</type>
 		<version>0.7.0</version>
 		<note>
 			<item><![CDATA[No changes to this element. The version follows the shared Elemen 0.7.0 release, whose common plugin code gained support for YOOtheme event listeners. From here on this element has its own version.]]></item>

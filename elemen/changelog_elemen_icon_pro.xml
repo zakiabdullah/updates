@@ -3,6 +3,15 @@
 	<changelog>
 		<element>elemen_icon_pro</element>
 		<type>plugin</type>
+		<version>0.11.0</version>
+		<addition>
+			<item><![CDATA[Other Elemen elements can use Lucide icons: Icon Pro adds a Lucide Icon field after the icon fields of Counter Pro, Flip Box Pro (item icon and back list icon), Timeline Pro (marker icons) and Tabs Pro.]]></item>
+			<item><![CDATA[Icon gallery: the picked icon stays in a bar at the bottom, to copy its name, copy it as SVG or download an .svg file, in a chosen color and line weight, for YOOtheme's own elements (image fields, HTML element).]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_icon_pro</element>
+		<type>plugin</type>
 		<version>0.10.0</version>
 		<addition>
 			<item><![CDATA[First release: Lucide 1.70.0 icons (2,029, plus 293 older names), UIkit icons and your own images, in a row or grid with labels, links, tooltips and their own colors. Shapes (circle, square, rounded, blob) that are filled, soft, outline or gradient, line weight, gradient and soft-fill icons. Icons that draw themselves, fade, zoom or rise into view, hover effects (spin, bounce, pulse, shake, lift, fill) and looping pulse, float, wiggle or morph. Only the icons used are in the page, as inline SVG. A searchable gallery with Malay and English words copies an icon's name.]]></item>

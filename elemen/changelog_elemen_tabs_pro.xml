@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_tabs_pro</element>
 		<type>plugin</type>
+		<version>0.11.0</version>
+		<addition>
+			<item><![CDATA[Lucide Icon field, with Icon Pro installed: a Lucide icon in the title instead of the UIkit icon.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_tabs_pro</element>
+		<type>plugin</type>
 		<version>0.9.0</version>
 		<addition>
 			<item><![CDATA[First release: tabs or an accordion in one element. Tabs turn into an accordion below 640px or 960px. Underline, pill and segmented tab styles with a sliding indicator, tabs across the top or down the side, icons, step numbers and badges in the titles. A link to #name opens that tab, and the browser's find in page opens the tab holding the match.]]></item>
