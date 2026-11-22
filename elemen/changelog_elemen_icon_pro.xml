@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_icon_pro</element>
 		<type>plugin</type>
+		<version>0.13.0</version>
+		<addition>
+			<item><![CDATA[Lucide icons in YOOtheme menus: menu items get a Lucide Icon field after their Icon field (with the icon picker), and the icon shows in every menu type (navbar, dropdown, offcanvas, icon nav, subnav) with the same size and spacing as YOOtheme's own icons.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_icon_pro</element>
+		<type>plugin</type>
 		<version>0.12.2</version>
 		<change>
 			<item><![CDATA[The icon gallery and the builder's icon picker are in English only. Malay search words (rumah, kedai, telefon, …) still find icons.]]></item>
