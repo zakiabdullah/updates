@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
 	<update>
-		<name>Elemen</name>
+		<name>Elemen: Animated Background Pro 0.15.1</name>
 		<description>Elemen 0.15.2</description>
 		<element>pkg_elemen</element>
 		<type>package</type>
