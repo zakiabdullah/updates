@@ -3,6 +3,18 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>0.15.0</version>
+		<addition>
+			<item><![CDATA[Animated Background Pro 0.15.0: First release: an Animated Background panel for YOOtheme's Section, opened from its Settings tab, with five effects behind the content: Aurora (soft lights drifting slowly), Gradient Flow (colour bands flowing across the section), Waves (three layered waves along the bottom), Moving Pattern (a fine grid, dots or diagonal lines drifting slowly, fading out towards the edges, in any size) and Floating Shapes (circles, rounded squares, rings or triangles rising slowly; 8, 14 or 22 of them).]]></item>
+			<item><![CDATA[Animated Background Pro 0.15.0: Grain: a fine, still grain texture over the section background, with any effect or on its own.]]></item>
+			<item><![CDATA[Animated Background Pro 0.15.0: Colours: Auto (the theme's primary colour, and light glows on Primary and Secondary sections, held back so the section keeps its colour and its text stays readable), Corporate, Vibrant, or three custom colours.]]></item>
+			<item><![CDATA[Animated Background Pro 0.15.0: Intensity (subtle, medium, strong) and speed (slow, medium, fast, still). The defaults are subtle and slow, so the effect suits business sites as it is.]]></item>
+			<item><![CDATA[Animated Background Pro 0.15.0: Light on the browser: only transform and opacity are animated, animations pause while the section is off screen, and visitors who prefer reduced motion see a still picture.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>0.14.1</version>
 		<fix>
 			<item><![CDATA[Marquee Pro 0.14.1: Links work on every item on screen. The copies that fill the row were not clickable, so with few items most of the links on screen did nothing. Copies stay hidden from screen readers and are skipped by the Tab key.]]></item>

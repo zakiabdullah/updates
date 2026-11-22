@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>elemen_background_pro</element>
+		<type>plugin</type>
+		<version>0.15.0</version>
+		<addition>
+			<item><![CDATA[First release: an Animated Background panel for YOOtheme's Section, opened from its Settings tab, with five effects behind the content: Aurora (soft lights drifting slowly), Gradient Flow (colour bands flowing across the section), Waves (three layered waves along the bottom), Moving Pattern (a fine grid, dots or diagonal lines drifting slowly, fading out towards the edges, in any size) and Floating Shapes (circles, rounded squares, rings or triangles rising slowly; 8, 14 or 22 of them).]]></item>
+			<item><![CDATA[Grain: a fine, still grain texture over the section background, with any effect or on its own.]]></item>
+			<item><![CDATA[Colours: Auto (the theme's primary colour, and light glows on Primary and Secondary sections, held back so the section keeps its colour and its text stays readable), Corporate, Vibrant, or three custom colours.]]></item>
+			<item><![CDATA[Intensity (subtle, medium, strong) and speed (slow, medium, fast, still). The defaults are subtle and slow, so the effect suits business sites as it is.]]></item>
+			<item><![CDATA[Light on the browser: only transform and opacity are animated, animations pause while the section is off screen, and visitors who prefer reduced motion see a still picture.]]></item>
+		</addition>
+	</changelog>
+</changelogs>
