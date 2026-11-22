@@ -3,6 +3,14 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>0.15.1</version>
+		<change>
+			<item><![CDATA[Package: Sites with the package see one "Elemen" row in Joomla's update list, also when single elements have new versions. The package gets its updates from package.xml; the elements inside it no longer register an update server of their own, and the shared update server of earlier versions is removed when the package is installed. Single element zips still update on their own.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>0.15.0</version>
 		<addition>
 			<item><![CDATA[Animated Background Pro 0.15.0: First release: an Animated Background panel for YOOtheme's Section, opened from its Settings tab, with five effects behind the content: Aurora (soft lights drifting slowly), Gradient Flow (colour bands flowing across the section), Waves (three layered waves along the bottom), Moving Pattern (a fine grid, dots or diagonal lines drifting slowly, fading out towards the edges, in any size) and Floating Shapes (circles, rounded squares, rings or triangles rising slowly; 8, 14 or 22 of them).]]></item>

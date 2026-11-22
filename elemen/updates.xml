@@ -2,17 +2,17 @@
 <updates>
 	<update>
 		<name>Elemen</name>
-		<description>Elemen 0.15.0</description>
+		<description>Elemen 0.15.1</description>
 		<element>pkg_elemen</element>
 		<type>package</type>
 		<client>site</client>
-		<version>0.15.0</version>
+		<version>0.15.1</version>
 		<infourl title="Elemen">https://updates.webmonsta.com/elemen</infourl>
 		<changelogurl>https://updates.webmonsta.com/elemen/changelog_pkg_elemen.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-0.15.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-0.15.1.zip</downloadurl>
 		</downloads>
-		<sha512>a6ce29b3576a53d54c191ebe4bbafae46c4ebab9d39e45654e7f8b25aa8b8434354a7ae5ce79689d552d8e2dbe56c3daf3c25aea75a2f560a6bbdc0fa9cca904</sha512>
+		<sha512>7d9a60c2621e1e479bb5dfcab625ea30c5b29fe7c5b2f28dea5632d8ea25bf856f98624b40cf06454861f8c5456cf7b6284b95ddf76f960a4dfc5172d0658f71</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>
@@ -30,7 +30,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_background_pro-0.15.0.zip</downloadurl>
 		</downloads>
-		<sha512>00e5639f67278930e3b2a17c5f1aef840504826e7fc17db526a220856a22e480754dfaeec820d709088718689f2e95d36162d81d051a326b248c1930aba862b2</sha512>
+		<sha512>c7fb7e5501c0ef82a9e3f40cea9a3eab0c70da5b397abfd7529f62de1aa3415876eba09bc534647ef417f09e04f23c26dcab04ea57a48d178dda15bfee072e26</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>
@@ -48,7 +48,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_countdown_pro-0.12.2.zip</downloadurl>
 		</downloads>
-		<sha512>5e51cb0175193035d21f9614ad9f53af05a599408da56a81328c534c571cea436a9d0be4663124c98dd17e87b68fa04c6c04eb244bf2f212e5cc3a48a0040b52</sha512>
+		<sha512>91a900e95f90ccdd057e57a9c6a9b32ba5baa8a4083ca3d5fa7a6fb7ffdfc9041a88abff6ab4d4e01fce5f25158290b5b1cce1b2dcc72a30d2e8425be9e25f28</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>
@@ -66,7 +66,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_counter_pro-0.11.0.zip</downloadurl>
 		</downloads>
-		<sha512>18cf7f974247e355eb3ff740950da8ab3f163d40b403d944141f143a8fd701677889a1ee3ec9f4824d91c5b8ffbd3dff92038be4db97b88d78fc7c6f50066455</sha512>
+		<sha512>2abe4f51e2aa02dd8e0cecb85d93d49f56d4d1051e6bb09f48b330ab77fbfa78f443c028664c937da10a1e68fac482682185d6cc9f06f1e5db10b5334cadbd7e</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>
@@ -84,7 +84,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_flipbox_pro-0.11.0.zip</downloadurl>
 		</downloads>
-		<sha512>2c87cc73eead946a9a05ae49b99318bd26b3324dc08c1c23770a40ac94871b980519a09483e76eca9bc7a50fa9d4a7e0cdc9c939efed346f94e5752ae758c4c3</sha512>
+		<sha512>feadf658e9a57515911fc6c19bfb2b30e4af42fa729f1ee815bf0a2b5440e67e91789304a76e1dba665df5d4fd9212bbd25e53eb6af305764c8d73b72d84dd56</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>
@@ -102,7 +102,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_grid_pro-0.12.2.zip</downloadurl>
 		</downloads>
-		<sha512>46d78243a0ec29e1bde84321acb679f52f32d97193c073d03f3b2cfddaa1821d65f0f9c9a2892fa7510a3c4ed06c53f3fdf59b6d6d5e2ea9c22a412c3fe5e618</sha512>
+		<sha512>df01e33a1ac51caa428baa6aa4c013b09109490cf20621bf53b90f4007e57ad99fb4ef387d5149ab79d3ec93af501a3501fa82977bc47a20a2bbf94f23ccbe74</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>
@@ -120,7 +120,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_heading_pro-0.12.0.zip</downloadurl>
 		</downloads>
-		<sha512>441140372f24dd105e611b9dc45ca792ee224700faf86358242bfff04e30dfcf0dc1b0888b613f59b728e6d5e0798b51dae83a7f74948cc9f9d29597f778ade6</sha512>
+		<sha512>8761c973bdd391e02f340e2214c1400b83b4f1c57b958dffc5802169c53c8ffaf588579a5757cb248d1954a617a7e5f11c7751037279ba6e0d6bedea1d7abcd7</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>
@@ -138,7 +138,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_icon_pro-0.14.0.zip</downloadurl>
 		</downloads>
-		<sha512>5220fd4944d7d48cc8c5f2f8920644cca4fc21c42c85d16185bb3625ddc7b155d63ec73397baa063b7ce5598e0e0c2b0a8e7e23bd38e4f7e710c4c6ef4644c33</sha512>
+		<sha512>5a75ee1ffea97db40db8b6e3ec81c8e44e8d745369edd366bb8fedb287c46fa4f326aef96bcf36a270e24c3999e414777d47806ca062d62748ab3d29f548a84b</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>
@@ -156,7 +156,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_marquee_pro-0.14.1.zip</downloadurl>
 		</downloads>
-		<sha512>c69a39ea9a2e8c0cef43f7a6e31a174d33c4f4b6660d1e39aa3ce6cb4e038396c5aed2d4e398a4e866af80573f03b81c619159a9f1ffd161b57a0fe71dc75837</sha512>
+		<sha512>d6b1640a86ffc41c424ce60f8530e68dbd3795bd8ad0ef381da5161a36d3d859dfb3a89dd136cbc48e01053d44b1bcbe8d30fcc2e5c328d7852e6e08f1699e21</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>
@@ -174,7 +174,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_progress_pro-0.7.0.zip</downloadurl>
 		</downloads>
-		<sha512>fe9977bd963b846f6f168e4cb8b5c279a7ca692d22487901effec9d732bb7abd19c9ab6062af51eedb895f1c4001f66c321681885067fdbce8da25a89ad09d89</sha512>
+		<sha512>cf824073e5cc199e4246d522b9b0ba775d6e23b29451199aada8acb4a54bdf31d43a6eafe522d1a268a24aa65a1545cd999af351f9acf7593a45a52fa3541bd9</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>
@@ -192,7 +192,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_shapes_pro-0.8.0.zip</downloadurl>
 		</downloads>
-		<sha512>c5a1c446ef1807ff24caef242b0b08ecccb57a129d1f39955e335ccf414b4d8486890d01587d47ce5234aaeafe2a00a1a4cda347cc37f3c614999ec2807ad287</sha512>
+		<sha512>b59f9fadaa7bcbe27a390e63a6f49d7ec0ade88e27cd73ffdd57b79de05e1134395c2a7ff96515e1576197e8bf43dfa6261aefffb26d86a692c86b37ed25e846</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>
@@ -210,7 +210,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_tabs_pro-0.11.0.zip</downloadurl>
 		</downloads>
-		<sha512>153268c610344caa8d1b1fe2285e82b5dea00d6a5e27aea31474a49d6a4360eeb3e96e23c6fb10593614777cbfb7137699eabf629b85ca5304ba43bf7d78de84</sha512>
+		<sha512>fedf16c78b2e28eb5c42b9e3b4ad9cf0739e33d5457430d3c2f3b835021e26a7efebf82bb6df53cecdca5db97b4220a92761cd6678dbd3214cf738b66fa1303f</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>
@@ -228,7 +228,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/plg_system_elemen_timeline_pro-0.11.0.zip</downloadurl>
 		</downloads>
-		<sha512>1127f2c286b83aa35d08fcb00650168c78b3365594432714423ad4db0b699056bb42fd9ca2f4fd5aa01fa302ab2639584b86c1b3282586089282f6d358514f2a</sha512>
+		<sha512>75cb1aedfb32e47a85163bb475f321f6ae78d30eb070555aec5ed4c4e87458334d51e0543ac4b2e0510a385d43d9cedac981300c947215febacbc87ee8cbec8e</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>
