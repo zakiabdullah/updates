@@ -3,6 +3,15 @@
 	<changelog>
 		<element>elemen_icon_pro</element>
 		<type>plugin</type>
+		<version>0.12.0</version>
+		<addition>
+			<item><![CDATA[Icon picker in the builder: the "Open the icon gallery" link under an icon field opens the gallery in a dialog over the builder, and clicking an icon fills the field. Escape or a click outside closes it.]]></item>
+			<item><![CDATA[Lucide Icon fields for Heading Pro and Marquee Pro (item icon and separator icon).]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_icon_pro</element>
+		<type>plugin</type>
 		<version>0.11.0</version>
 		<addition>
 			<item><![CDATA[Other Elemen elements can use Lucide icons: Icon Pro adds a Lucide Icon field after the icon fields of Counter Pro, Flip Box Pro (item icon and back list icon), Timeline Pro (marker icons) and Tabs Pro.]]></item>
