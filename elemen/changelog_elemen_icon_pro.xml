@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_icon_pro</element>
 		<type>plugin</type>
+		<version>0.14.0</version>
+		<addition>
+			<item><![CDATA[Icon fonts such as Flaticon UIcons, Font Awesome or Bootstrap Icons: add their stylesheet URLs in the plugin options (System → Plugins → Icon Pro), then write class: and the icon's classes in any icon field, e.g. class:fi fi-rr-home. The stylesheets load only on pages that show such an icon. Works in Icon Pro, in the Lucide Icon fields of the other elements and in YOOtheme menus. Colours (gradients fill the glyph), sizes, shapes, hover and looping animations apply; drawing, line weight and duotone are for Lucide icons.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_icon_pro</element>
+		<type>plugin</type>
 		<version>0.13.0</version>
 		<addition>
 			<item><![CDATA[Lucide icons in YOOtheme menus: menu items get a Lucide Icon field after their Icon field (with the icon picker), and the icon shows in every menu type (navbar, dropdown, offcanvas, icon nav, subnav) with the same size and spacing as YOOtheme's own icons.]]></item>
