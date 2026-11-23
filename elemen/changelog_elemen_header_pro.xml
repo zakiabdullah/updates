@@ -3,6 +3,21 @@
 	<changelog>
 		<element>elemen_header_pro</element>
 		<type>plugin</type>
+		<version>0.19.0</version>
+		<addition>
+			<item><![CDATA[Show the glass or solid navbar **Always**, not only while sticky: a floating capsule from the top of the page, with space and a shadow below it. Works without a sticky navbar.]]></item>
+			<item><![CDATA[**Menu Style**: Pill (rounded item, the active one in the theme's primary colour, or white on dark tints) or Underline (a line growing from the middle on hover). Items keep their height, so dropdowns stay where they are.]]></item>
+			<item><![CDATA[**Dropdowns: Glass**: rounded, see-through dropdowns with a soft shadow and rounded items.]]></item>
+			<item><![CDATA[A divider between the menu and the modules after it, such as a language switcher.]]></item>
+			<item><![CDATA[Menu style, dropdowns and divider also work without a glass or solid navbar.]]></item>
+		</addition>
+		<change>
+			<item><![CDATA[Field labels: Header Pro Style, Show, Shape, Tint, Effects.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>elemen_header_pro</element>
+		<type>plugin</type>
 		<version>0.18.0</version>
 		<addition>
 			<item><![CDATA[Sticky Style in the customizer under Header: while the navbar is sticky it becomes frosted glass or a solid bar, full width or a floating capsule.]]></item>
