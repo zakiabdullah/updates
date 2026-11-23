@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>elemen_header_pro</element>
+		<type>plugin</type>
+		<version>0.18.0</version>
+		<addition>
+			<item><![CDATA[Sticky Style in the customizer under Header: while the navbar is sticky it becomes frosted glass or a solid bar, full width or a floating capsule.]]></item>
+			<item><![CDATA[Tint from the theme: its background, muted, primary or secondary colour, so it follows the style chosen in the customizer. Menu text turns light on dark tints.]]></item>
+			<item><![CDATA[Opacity, blur, capsule gap and corners, shadow, border, and a smaller navbar height while sticky. Applies to the mobile header too, unless switched off; a static mobile navbar then becomes sticky like the desktop one.]]></item>
+			<item><![CDATA[Falls back to a nearly solid bar in browsers without backdrop blur, and skips the transitions when visitors prefer reduced motion.]]></item>
+		</addition>
+	</changelog>
+</changelogs>

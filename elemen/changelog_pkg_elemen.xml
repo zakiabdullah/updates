@@ -3,6 +3,17 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>0.18.0</version>
+		<addition>
+			<item><![CDATA[Header Pro 0.18.0: Sticky Style in the customizer under Header: while the navbar is sticky it becomes frosted glass or a solid bar, full width or a floating capsule.]]></item>
+			<item><![CDATA[Header Pro 0.18.0: Tint from the theme: its background, muted, primary or secondary colour, so it follows the style chosen in the customizer. Menu text turns light on dark tints.]]></item>
+			<item><![CDATA[Header Pro 0.18.0: Opacity, blur, capsule gap and corners, shadow, border, and a smaller navbar height while sticky. Applies to the mobile header too, unless switched off; a static mobile navbar then becomes sticky like the desktop one.]]></item>
+			<item><![CDATA[Header Pro 0.18.0: Falls back to a nearly solid bar in browsers without backdrop blur, and skips the transitions when visitors prefer reduced motion.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>0.17.0</version>
 		<addition>
 			<item><![CDATA[Counter Pro 0.17.0: Display options in the Content tab, as in YOOtheme's own elements: show or hide the title, meta text, content, image, icon and link of all items without deleting them.]]></item>

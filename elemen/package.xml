@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
 	<update>
-		<name>Elemen: Counter Pro 0.17.0, Flip Box Pro 0.17.0, Grid Pro 0.17.0 and 4 more</name>
-		<description>Elemen: Counter Pro 0.17.0, Flip Box Pro 0.17.0, Grid Pro 0.17.0 and 4 more 0.17.0</description>
+		<name>Elemen: Header Pro 0.18.0</name>
+		<description>Elemen: Header Pro 0.18.0 0.18.0</description>
 		<element>pkg_elemen</element>
 		<type>package</type>
 		<client>site</client>
-		<version>0.17.0</version>
+		<version>0.18.0</version>
 		<infourl title="Elemen">https://updates.webmonsta.com/elemen</infourl>
 		<changelogurl>https://updates.webmonsta.com/elemen/changelog_pkg_elemen.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-0.17.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-0.18.0.zip</downloadurl>
 		</downloads>
-		<sha512>9757ad131a694000998de8f27c7a1bbc0ccc11f5d4ed6ece2c1b020a74ac117769c2e5b956ec73adf4fc5fe08a180c19795f0ee4d36fb767af34cd2efe81d7b4</sha512>
+		<sha512>fa1bf706aa4dabab9c3eeb2ee51e615e2cbfb278c9f44bc761517032b4b6cfec7f0e4d2e2ac41080422e1cdada9f1e67030db14bf34c06ece926d47ced954788</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>
