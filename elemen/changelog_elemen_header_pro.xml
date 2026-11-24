@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_header_pro</element>
 		<type>plugin</type>
+		<version>1.1.0</version>
+		<addition>
+			<item><![CDATA[The header button text and link can be translated per language with a multilingual plugin that reads the customizer's "translate" flag, such as TerjemahYOOPro.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_header_pro</element>
+		<type>plugin</type>
 		<version>1.0.2</version>
 		<fix>
 			<item><![CDATA[Capsule with the navbar Dropdown set to *Dropbar*: opening a dropdown showed a full-width white bar that covered the page and the lower edge of the capsule. The bar is now left out, and each dropdown shows as a card just below the capsule, in the theme's dropdown colour (glass with Dropdowns: Glass).]]></item>
