@@ -3,6 +3,19 @@
 	<changelog>
 		<element>elemen_heading_pro</element>
 		<type>plugin</type>
+		<version>1.0.0</version>
+		<change>
+			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+		</change>
+		<fix>
+			<item><![CDATA[Rotating words stay on the first word for visitors who prefer reduced motion.]]></item>
+			<item><![CDATA[Rotating words share one window resize listener, so editing in the builder no longer adds a new one each time the preview refreshes.]]></item>
+			<item><![CDATA[The link in the plain HTML used for search is escaped.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>elemen_heading_pro</element>
+		<type>plugin</type>
 		<version>0.12.0</version>
 		<addition>
 			<item><![CDATA[Lucide Icon field, with Icon Pro installed: a Lucide icon instead of the UIkit icon.]]></item>

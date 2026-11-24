@@ -3,6 +3,23 @@
 	<changelog>
 		<element>elemen_icon_pro</element>
 		<type>plugin</type>
+		<version>1.0.0</version>
+		<change>
+			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Grid columns work like YOOtheme's own elements: Phone Portrait, Phone Landscape, Tablet Landscape and Desktop, each with Inherit (the next smaller size) and "Fill the row equally". They replace Columns and Columns on Phones.]]></item>
+			<item><![CDATA[Settings renamed for consistency: Shape Size, On Hover and Keep Moving are now stored as shape_size, animate_hover and animate_loop. Older layouts are migrated automatically, with their column, shape and animation choices kept.]]></item>
+			<item><![CDATA[The icon field Icon Pro adds to other Elemen elements and to YOOtheme menu items is now called "Icon (Icon Pro)": it takes Lucide names, uikit: names and class: icon fonts.]]></item>
+			<item><![CDATA[The icon gallery's built-in search words are English. Malay search words moved to a separate file and are loaded when the Joomla administrator language is Malay.]]></item>
+		</change>
+		<fix>
+			<item><![CDATA[A ; or : in a tooltip no longer cuts the tooltip short.]]></item>
+			<item><![CDATA[Links that open in a new window get rel="noopener".]]></item>
+			<item><![CDATA[The screen reader name "Icon" for linked icon fonts and images comes from the language files.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>elemen_icon_pro</element>
+		<type>plugin</type>
 		<version>0.17.0</version>
 		<addition>
 			<item><![CDATA[Display options in the Content tab, as in YOOtheme's own elements: show or hide the label, tooltip and link of all items without deleting them.]]></item>

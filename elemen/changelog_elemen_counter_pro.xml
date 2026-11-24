@@ -3,6 +3,20 @@
 	<changelog>
 		<element>elemen_counter_pro</element>
 		<type>plugin</type>
+		<version>1.0.0</version>
+		<change>
+			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Number Format "Malay (1.3 juta)" is now "Words (1.3 million)": the words come from the plugin's language files in the page's language (English and Malay included, other languages through Language Overrides). Layouts that chose Malay switch to Words automatically, so Malay pages still show "1.3 juta".]]></item>
+			<item><![CDATA[The item's Color setting is now Number Color (color renamed to number_color). Older layouts are migrated automatically when they load.]]></item>
+		</change>
+		<fix>
+			<item><![CDATA[The title's HTML element only accepts h1 to h6 or div; anything else falls back to div.]]></item>
+			<item><![CDATA[The script only watches the page for replaced elements inside the builder preview, not on every page view.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>elemen_counter_pro</element>
+		<type>plugin</type>
 		<version>0.17.0</version>
 		<addition>
 			<item><![CDATA[Display options in the Content tab, as in YOOtheme's own elements: show or hide the title, meta text, content, image, icon and link of all items without deleting them.]]></item>

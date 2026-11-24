@@ -3,6 +3,16 @@
 	<changelog>
 		<element>elemen_header_pro</element>
 		<type>plugin</type>
+		<version>1.0.0</version>
+		<change>
+			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Clearer setting names before 1.0: show_when, capsule_width, capsule_gap, capsule_radius, sticky_height, menu_style, dropdown_style, dialog_style and mobile_apply. Settings saved under the older names are taken over automatically and saved under the new names next time.]]></item>
+			<item><![CDATA[The divider and the mobile header option have their own labels (**Divider**, **Mobile Header**), and Glass Opacity and Glass Blur each say what they set.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>elemen_header_pro</element>
+		<type>plugin</type>
 		<version>0.21.0</version>
 		<addition>
 			<item><![CDATA[**Capsule Width: Fit content**: the capsule only as wide as the logo, menu and modules, floating in the middle.]]></item>

@@ -3,6 +3,21 @@
 	<changelog>
 		<element>elemen_countdown_pro</element>
 		<type>plugin</type>
+		<version>1.0.0</version>
+		<change>
+			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Settings renamed for clarity: labels is now label_language, pad is pad_numbers, color is number_color, color_custom is number_color_custom and separator is show_separator. Older layouts are migrated automatically when they load, dynamic content mappings included.]]></item>
+			<item><![CDATA[Label Language offers Page language (the default) or English. The Malay option is gone: labels come from the language files in the page's language, so a Malay page shows Malay labels. Layouts that chose Malay switch to Page language automatically.]]></item>
+		</change>
+		<fix>
+			<item><![CDATA[Every day mode stays on the chosen time across daylight saving time changes in the site's time zone (it used to add a fixed 24 hours).]]></item>
+			<item><![CDATA[The script only watches the page for replaced elements inside the builder preview, not on every page view.]]></item>
+			<item><![CDATA[Number Color only accepts its own options.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>elemen_countdown_pro</element>
+		<type>plugin</type>
 		<version>0.12.2</version>
 		<change>
 			<item><![CDATA[Day, hour, minute and second labels come from the plugin's language files (English and Malay), so other languages can be added with Joomla's Language Overrides.]]></item>

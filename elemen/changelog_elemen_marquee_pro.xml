@@ -3,6 +3,20 @@
 	<changelog>
 		<element>elemen_marquee_pro</element>
 		<type>plugin</type>
+		<version>1.0.0</version>
+		<change>
+			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[The pause button is on by default for new marquees and for older layouts that never changed the setting (WCAG 2.2.2: moving content can be paused).]]></item>
+			<item><![CDATA[The pause button keeps one name, "Pause animation" (from the language files), and tells screen readers whether it is pressed, instead of switching between Pause and Play.]]></item>
+		</change>
+		<fix>
+			<item><![CDATA[A linked item without text or an image alt text is named after its icon, or else the address it links to, for screen readers.]]></item>
+			<item><![CDATA[The pause button's label is escaped.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>elemen_marquee_pro</element>
+		<type>plugin</type>
 		<version>0.16.0</version>
 		<addition>
 			<item><![CDATA[Display options in the Content tab, as in YOOtheme's own elements: show or hide the text, images, icons and links of all items without deleting them, e.g. logos only. Linked items without their text keep it as a name for screen readers.]]></item>

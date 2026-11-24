@@ -3,6 +3,21 @@
 	<changelog>
 		<element>elemen_flipbox_pro</element>
 		<type>plugin</type>
+		<version>1.0.0</version>
+		<change>
+			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Clearer setting names: Front/Back Text Color (front_text_color, back_text_color, on the element and on items), Back List Icon and Back List Icon Color (back_list_icon, back_list_icon_color, back_list_icon_lucide). Older layouts are migrated automatically when they load, dynamic content mappings included.]]></item>
+			<item><![CDATA[Keyboard and screen readers: the box itself is no longer a focusable "button" around links. Each box has a real toggle button (read out, not shown; "Show the back" with the front title) for both triggers, and a click anywhere on a Click box still turns it. The side that is turned away is inert, so its links can't be reached with Tab.]]></item>
+			<item><![CDATA[The Hover trigger option is called Hover; keyboard users use the toggle button.]]></item>
+		</change>
+		<fix>
+			<item><![CDATA[Title HTML Element only accepts h1-h6 and div (h1 and h6 added to the list).]]></item>
+			<item><![CDATA[The link of the plain HTML copy stored for search is escaped.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>elemen_flipbox_pro</element>
+		<type>plugin</type>
 		<version>0.17.0</version>
 		<addition>
 			<item><![CDATA[Display options in the Content tab, as in YOOtheme's own elements: show or hide the front title, front content, image, icon, back title, back content, back list and link of all items without deleting them.]]></item>

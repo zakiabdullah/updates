@@ -3,6 +3,23 @@
 	<changelog>
 		<element>elemen_progress_pro</element>
 		<type>plugin</type>
+		<version>1.0.0</version>
+		<change>
+			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+		</change>
+		<fix>
+			<item><![CDATA[The goal text for screen readers ("Goal") comes from the plugin's language files, in the page's language.]]></item>
+			<item><![CDATA[A Maximum of zero or below counts as 100 instead of breaking the bar.]]></item>
+			<item><![CDATA[The plain text copy (search, builder off) no longer shows a stray ": " when an item has no value, e.g. an empty dynamic field.]]></item>
+			<item><![CDATA[The script only watches the page for replaced elements inside the builder preview, not on every page view.]]></item>
+		</fix>
+		<note>
+			<item><![CDATA[No settings were renamed, so older layouts load unchanged.]]></item>
+		</note>
+	</changelog>
+	<changelog>
+		<element>elemen_progress_pro</element>
+		<type>plugin</type>
 		<version>0.17.0</version>
 		<addition>
 			<item><![CDATA[Display options in the Content tab, as in YOOtheme's own elements: show or hide the title, content and goal of all items without deleting them.]]></item>

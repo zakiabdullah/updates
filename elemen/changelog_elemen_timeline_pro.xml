@@ -3,6 +3,22 @@
 	<changelog>
 		<element>elemen_timeline_pro</element>
 		<type>plugin</type>
+		<version>1.0.0</version>
+		<change>
+			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Clearer setting names: Fill the line is line_fill (was progress) and its color line_fill_color (was progress_color). Older layouts are migrated automatically when they load, dynamic content mappings included.]]></item>
+			<item><![CDATA[Line fill, group label and sticky group options are disabled for the Horizontal layout, which doesn't use them.]]></item>
+			<item><![CDATA[The horizontal scroller is a named region for screen readers, and the Previous/Next button labels come from the language files (English and Malay).]]></item>
+		</change>
+		<fix>
+			<item><![CDATA[Numbered markers and alternating sides count only the items that are shown: an empty item in between no longer skips a number or a side.]]></item>
+			<item><![CDATA[Title HTML Element only accepts h1-h6 and div (h1 and h6 added to the list).]]></item>
+			<item><![CDATA[The link of the plain HTML copy stored for search is escaped.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>elemen_timeline_pro</element>
+		<type>plugin</type>
 		<version>0.17.0</version>
 		<addition>
 			<item><![CDATA[Display options in the Content tab, as in YOOtheme's own elements: show or hide the title, meta text, content, image and link of all items without deleting them.]]></item>

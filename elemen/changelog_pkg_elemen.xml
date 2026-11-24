@@ -3,6 +3,81 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>1.0.0</version>
+		<change>
+			<item><![CDATA[Animated Background Pro 1.0.0: First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Countdown Pro 1.0.0: First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Countdown Pro 1.0.0: Settings renamed for clarity: labels is now label_language, pad is pad_numbers, color is number_color, color_custom is number_color_custom and separator is show_separator. Older layouts are migrated automatically when they load, dynamic content mappings included.]]></item>
+			<item><![CDATA[Countdown Pro 1.0.0: Label Language offers Page language (the default) or English. The Malay option is gone: labels come from the language files in the page's language, so a Malay page shows Malay labels. Layouts that chose Malay switch to Page language automatically.]]></item>
+			<item><![CDATA[Counter Pro 1.0.0: First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Counter Pro 1.0.0: Number Format "Malay (1.3 juta)" is now "Words (1.3 million)": the words come from the plugin's language files in the page's language (English and Malay included, other languages through Language Overrides). Layouts that chose Malay switch to Words automatically, so Malay pages still show "1.3 juta".]]></item>
+			<item><![CDATA[Counter Pro 1.0.0: The item's Color setting is now Number Color (color renamed to number_color). Older layouts are migrated automatically when they load.]]></item>
+			<item><![CDATA[Flip Box Pro 1.0.0: First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Flip Box Pro 1.0.0: Clearer setting names: Front/Back Text Color (front_text_color, back_text_color, on the element and on items), Back List Icon and Back List Icon Color (back_list_icon, back_list_icon_color, back_list_icon_lucide). Older layouts are migrated automatically when they load, dynamic content mappings included.]]></item>
+			<item><![CDATA[Flip Box Pro 1.0.0: Keyboard and screen readers: the box itself is no longer a focusable "button" around links. Each box has a real toggle button (read out, not shown; "Show the back" with the front title) for both triggers, and a click anywhere on a Click box still turns it. The side that is turned away is inert, so its links can't be reached with Tab.]]></item>
+			<item><![CDATA[Flip Box Pro 1.0.0: The Hover trigger option is called Hover; keyboard users use the toggle button.]]></item>
+			<item><![CDATA[Grid Pro 1.0.0: First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Grid Pro 1.0.0: Clearer setting names: the item's Bento Size is bento_size (was size) and Toolbar Alignment is toolbar_align (was filter_align). Older layouts are migrated automatically when they load, dynamic content mappings included.]]></item>
+			<item><![CDATA[Grid Pro 1.0.0: The Load More label can only be set when Items Shown First is set, and Toolbar Alignment only with the filter or search on.]]></item>
+			<item><![CDATA[Grid Pro 1.0.0: The filter buttons group is named for screen readers ("Filter by tag", from the language files).]]></item>
+			<item><![CDATA[Header Pro 1.0.0: First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Header Pro 1.0.0: Clearer setting names before 1.0: show_when, capsule_width, capsule_gap, capsule_radius, sticky_height, menu_style, dropdown_style, dialog_style and mobile_apply. Settings saved under the older names are taken over automatically and saved under the new names next time.]]></item>
+			<item><![CDATA[Header Pro 1.0.0: The divider and the mobile header option have their own labels (**Divider**, **Mobile Header**), and Glass Opacity and Glass Blur each say what they set.]]></item>
+			<item><![CDATA[Heading Pro 1.0.0: First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Icon Pro 1.0.0: First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Icon Pro 1.0.0: Grid columns work like YOOtheme's own elements: Phone Portrait, Phone Landscape, Tablet Landscape and Desktop, each with Inherit (the next smaller size) and "Fill the row equally". They replace Columns and Columns on Phones.]]></item>
+			<item><![CDATA[Icon Pro 1.0.0: Settings renamed for consistency: Shape Size, On Hover and Keep Moving are now stored as shape_size, animate_hover and animate_loop. Older layouts are migrated automatically, with their column, shape and animation choices kept.]]></item>
+			<item><![CDATA[Icon Pro 1.0.0: The icon field Icon Pro adds to other Elemen elements and to YOOtheme menu items is now called "Icon (Icon Pro)": it takes Lucide names, uikit: names and class: icon fonts.]]></item>
+			<item><![CDATA[Icon Pro 1.0.0: The icon gallery's built-in search words are English. Malay search words moved to a separate file and are loaded when the Joomla administrator language is Malay.]]></item>
+			<item><![CDATA[Marquee Pro 1.0.0: First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Marquee Pro 1.0.0: The pause button is on by default for new marquees and for older layouts that never changed the setting (WCAG 2.2.2: moving content can be paused).]]></item>
+			<item><![CDATA[Marquee Pro 1.0.0: The pause button keeps one name, "Pause animation" (from the language files), and tells screen readers whether it is pressed, instead of switching between Pause and Play.]]></item>
+			<item><![CDATA[Progress Bar Pro 1.0.0: First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Shape Dividers Pro 1.0.0: First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Shape Dividers Pro 1.0.0: The plugin description mentions columns, which have dividers since 0.8.0.]]></item>
+			<item><![CDATA[Tabs Pro 1.0.0: First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Tabs Pro 1.0.0: The step numbers option is called show_numbers (was numbers). Older layouts are migrated automatically when they load.]]></item>
+			<item><![CDATA[Timeline Pro 1.0.0: First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[Timeline Pro 1.0.0: Clearer setting names: Fill the line is line_fill (was progress) and its color line_fill_color (was progress_color). Older layouts are migrated automatically when they load, dynamic content mappings included.]]></item>
+			<item><![CDATA[Timeline Pro 1.0.0: Line fill, group label and sticky group options are disabled for the Horizontal layout, which doesn't use them.]]></item>
+			<item><![CDATA[Timeline Pro 1.0.0: The horizontal scroller is a named region for screen readers, and the Previous/Next button labels come from the language files (English and Malay).]]></item>
+		</change>
+		<fix>
+			<item><![CDATA[Countdown Pro 1.0.0: Every day mode stays on the chosen time across daylight saving time changes in the site's time zone (it used to add a fixed 24 hours).]]></item>
+			<item><![CDATA[Countdown Pro 1.0.0: The script only watches the page for replaced elements inside the builder preview, not on every page view.]]></item>
+			<item><![CDATA[Countdown Pro 1.0.0: Number Color only accepts its own options.]]></item>
+			<item><![CDATA[Counter Pro 1.0.0: The title's HTML element only accepts h1 to h6 or div; anything else falls back to div.]]></item>
+			<item><![CDATA[Counter Pro 1.0.0: The script only watches the page for replaced elements inside the builder preview, not on every page view.]]></item>
+			<item><![CDATA[Flip Box Pro 1.0.0: Title HTML Element only accepts h1-h6 and div (h1 and h6 added to the list).]]></item>
+			<item><![CDATA[Flip Box Pro 1.0.0: The link of the plain HTML copy stored for search is escaped.]]></item>
+			<item><![CDATA[Grid Pro 1.0.0: Title HTML Element only accepts h1-h6 and div (h1, h5 and h6 added to the list).]]></item>
+			<item><![CDATA[Grid Pro 1.0.0: The link of the plain HTML copy stored for search is escaped.]]></item>
+			<item><![CDATA[Heading Pro 1.0.0: Rotating words stay on the first word for visitors who prefer reduced motion.]]></item>
+			<item><![CDATA[Heading Pro 1.0.0: Rotating words share one window resize listener, so editing in the builder no longer adds a new one each time the preview refreshes.]]></item>
+			<item><![CDATA[Heading Pro 1.0.0: The link in the plain HTML used for search is escaped.]]></item>
+			<item><![CDATA[Icon Pro 1.0.0: A ; or : in a tooltip no longer cuts the tooltip short.]]></item>
+			<item><![CDATA[Icon Pro 1.0.0: Links that open in a new window get rel="noopener".]]></item>
+			<item><![CDATA[Icon Pro 1.0.0: The screen reader name "Icon" for linked icon fonts and images comes from the language files.]]></item>
+			<item><![CDATA[Marquee Pro 1.0.0: A linked item without text or an image alt text is named after its icon, or else the address it links to, for screen readers.]]></item>
+			<item><![CDATA[Marquee Pro 1.0.0: The pause button's label is escaped.]]></item>
+			<item><![CDATA[Progress Bar Pro 1.0.0: The goal text for screen readers ("Goal") comes from the plugin's language files, in the page's language.]]></item>
+			<item><![CDATA[Progress Bar Pro 1.0.0: A Maximum of zero or below counts as 100 instead of breaking the bar.]]></item>
+			<item><![CDATA[Progress Bar Pro 1.0.0: The plain text copy (search, builder off) no longer shows a stray ": " when an item has no value, e.g. an empty dynamic field.]]></item>
+			<item><![CDATA[Progress Bar Pro 1.0.0: The script only watches the page for replaced elements inside the builder preview, not on every page view.]]></item>
+			<item><![CDATA[Tabs Pro 1.0.0: Accordion Title HTML Element only accepts h2-h6 and div (h6 added to the list).]]></item>
+			<item><![CDATA[Tabs Pro 1.0.0: The link of the plain HTML copy stored for search is escaped.]]></item>
+			<item><![CDATA[Tabs Pro 1.0.0: No script error in browsers without the Web Animations getAnimations() method.]]></item>
+			<item><![CDATA[Timeline Pro 1.0.0: Numbered markers and alternating sides count only the items that are shown: an empty item in between no longer skips a number or a side.]]></item>
+			<item><![CDATA[Timeline Pro 1.0.0: Title HTML Element only accepts h1-h6 and div (h1 and h6 added to the list).]]></item>
+			<item><![CDATA[Timeline Pro 1.0.0: The link of the plain HTML copy stored for search is escaped.]]></item>
+		</fix>
+		<note>
+			<item><![CDATA[Progress Bar Pro 1.0.0: No settings were renamed, so older layouts load unchanged.]]></item>
+		</note>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>0.21.0</version>
 		<addition>
 			<item><![CDATA[Header Pro 0.21.0: **Capsule Width: Fit content**: the capsule only as wide as the logo, menu and modules, floating in the middle.]]></item>

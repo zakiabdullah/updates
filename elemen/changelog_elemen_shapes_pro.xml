@@ -3,6 +3,15 @@
 	<changelog>
 		<element>elemen_shapes_pro</element>
 		<type>plugin</type>
+		<version>1.0.0</version>
+		<change>
+			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[The plugin description mentions columns, which have dividers since 0.8.0.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>elemen_shapes_pro</element>
+		<type>plugin</type>
 		<version>0.8.0</version>
 		<addition>
 			<item><![CDATA[Shape dividers for columns: the same Shape Divider panel in the Column settings, with a top and a bottom shape inside the column's tile, card, background color, image or video box. Color Auto takes the background of the section around the column, so the shape looks cut out of it. Rounded card corners are kept; the default height is 60px.]]></item>

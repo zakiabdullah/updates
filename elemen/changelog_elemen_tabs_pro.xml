@@ -3,6 +3,20 @@
 	<changelog>
 		<element>elemen_tabs_pro</element>
 		<type>plugin</type>
+		<version>1.0.0</version>
+		<change>
+			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
+			<item><![CDATA[The step numbers option is called show_numbers (was numbers). Older layouts are migrated automatically when they load.]]></item>
+		</change>
+		<fix>
+			<item><![CDATA[Accordion Title HTML Element only accepts h2-h6 and div (h6 added to the list).]]></item>
+			<item><![CDATA[The link of the plain HTML copy stored for search is escaped.]]></item>
+			<item><![CDATA[No script error in browsers without the Web Animations getAnimations() method.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>elemen_tabs_pro</element>
+		<type>plugin</type>
 		<version>0.17.0</version>
 		<addition>
 			<item><![CDATA[Display options in the Content tab, as in YOOtheme's own elements: show or hide the badge, icon, image and link of all items without deleting them.]]></item>
