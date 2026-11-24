@@ -2,17 +2,17 @@
 <updates>
 	<update>
 		<name>Terjemah</name>
-		<description>Terjemah 1.2.0</description>
+		<description>Terjemah 1.3.0</description>
 		<element>pkg_terjemah</element>
 		<type>package</type>
 		<client>site</client>
-		<version>1.2.0</version>
+		<version>1.3.0</version>
 		<infourl title="Terjemah">https://www.webmonsta.com</infourl>
 		<changelogurl>https://updates.webmonsta.com/terjemah/changelog_pkg_terjemah.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://updates.webmonsta.com/terjemah/pkg_terjemah-1.2.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/terjemah/pkg_terjemah-1.3.0.zip</downloadurl>
 		</downloads>
-		<sha512>b3d763db966270f3913d4b91fd626517182a478c152e8d1b4b8a15f77bfd099dbc2290a5d3900f4c4fe11442364239d14152646a46de28505334fc41bb47ffa6</sha512>
+		<sha512>7fd735c1882a34fd933aae67f46f3864df467c4900eb9f23c0b6026d4a6b56e7f2b794373af384c9d63c0535d59c681bd3dd8d144f6420404aeded0550fd4989</sha512>
 		<targetplatform name="joomla" version="(5\.[4-9]|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>WebMonsta</maintainer>
