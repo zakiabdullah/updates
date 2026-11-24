@@ -28,7 +28,7 @@
 		<type>package</type>
 		<version>0.15.1</version>
 		<change>
-			<item><![CDATA[The YOOtheme Pro plugin is now called **TerjemahYOOPro** (System - TerjemahYOOPro). Its internal name is unchanged, so updates install over the old version.]]></item>
+			<item><![CDATA[The YOOtheme Pro plugin is now called TerjemahYOOPro (System - TerjemahYOOPro). Its internal name is unchanged, so updates install over the old version.]]></item>
 		</change>
 		<remove>
 			<item><![CDATA[The legacy import command, the import hint on the dashboard and the checks for other translation plugins in the health check and terjemah:status.]]></item>
