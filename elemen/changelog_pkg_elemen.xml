@@ -3,6 +3,19 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>0.20.0</version>
+		<addition>
+			<item><![CDATA[Header Pro 0.20.0: **Menu Dialog: Cards**: the mobile menu (and the menu dialog, if used) with rounded menu items, the active one in the theme's primary colour, and a round close button above the menu.]]></item>
+			<item><![CDATA[Header Pro 0.20.0: **Scroll Progress**: a thin bar in the primary colour at the top of the window that fills as visitors scroll, on all pages or on articles only.]]></item>
+			<item><![CDATA[Header Pro 0.20.0: **Button** at the end of the header or navbar, with its own link, style (primary, secondary, default), new window option, and optionally in the mobile header. Its text can be a language string, so it can be translated with language overrides.]]></item>
+		</addition>
+		<fix>
+			<item><![CDATA[Header Pro 0.20.0: With *Blend with page content* (transparent header), the glass or solid surface is left out: the blend inverted its colours. Menu style, dropdowns and the button stay.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>0.19.0</version>
 		<addition>
 			<item><![CDATA[Header Pro 0.19.0: Show the glass or solid navbar **Always**, not only while sticky: a floating capsule from the top of the page, with space and a shadow below it. Works without a sticky navbar.]]></item>
