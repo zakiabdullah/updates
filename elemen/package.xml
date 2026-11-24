@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
 	<update>
-		<name>Elemen: Header Pro 0.20.0</name>
-		<description>Elemen: Header Pro 0.20.0 0.20.0</description>
+		<name>Elemen: Header Pro 0.21.0</name>
+		<description>Elemen: Header Pro 0.21.0 0.21.0</description>
 		<element>pkg_elemen</element>
 		<type>package</type>
 		<client>site</client>
-		<version>0.20.0</version>
+		<version>0.21.0</version>
 		<infourl title="Elemen">https://updates.webmonsta.com/elemen</infourl>
 		<changelogurl>https://updates.webmonsta.com/elemen/changelog_pkg_elemen.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-0.20.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-0.21.0.zip</downloadurl>
 		</downloads>
-		<sha512>04ec204eac19449306912c683afccfdb65f384a70bb14fab1f74353a775daebbe7aa1a9169ceaac3c838f0e3a50805d9330532a90cc7ae8f7f8a59cba2edd029</sha512>
+		<sha512>6f2ed32d7a75c032fca91bd6ef153e161e9b4e0c1413df6d98f0fc07f26d4c159a4642555bc0cf0cee882f6e438e51a51cd06d680bdb7d830bf19ffe0f044c31</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>Elemen</maintainer>

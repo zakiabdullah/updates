@@ -3,6 +3,21 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>0.21.0</version>
+		<addition>
+			<item><![CDATA[Header Pro 0.21.0: **Capsule Width: Fit content**: the capsule only as wide as the logo, menu and modules, floating in the middle.]]></item>
+			<item><![CDATA[Header Pro 0.21.0: **Slide the highlight**: with Pill or Underline, one highlight slides to the menu item under the pointer or keyboard focus and back to the active item.]]></item>
+			<item><![CDATA[Header Pro 0.21.0: **Start After**: the glass or solid surface only once the page is scrolled this far, for example past a hero image.]]></item>
+			<item><![CDATA[Header Pro 0.21.0: **Slide in when it appears**: the capsule drops in softly (the full-width bar fades in).]]></item>
+			<item><![CDATA[Header Pro 0.21.0: **Mobile Shape**: the mobile header can be a full-width bar under a desktop capsule, or the other way round.]]></item>
+		</addition>
+		<fix>
+			<item><![CDATA[Header Pro 0.21.0: Menu items on a dark tint (light text) were UIkit's half-strength white and hard to read on a coloured glass; now a stronger white.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>0.20.0</version>
 		<addition>
 			<item><![CDATA[Header Pro 0.20.0: **Menu Dialog: Cards**: the mobile menu (and the menu dialog, if used) with rounded menu items, the active one in the theme's primary colour, and a round close button above the menu.]]></item>
