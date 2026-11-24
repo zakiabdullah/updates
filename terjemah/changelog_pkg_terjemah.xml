@@ -3,6 +3,21 @@
 	<changelog>
 		<element>pkg_terjemah</element>
 		<type>package</type>
+		<version>1.1.0</version>
+		<addition>
+			<item><![CDATA[YOOtheme Pro customizer: translation fields right below the theme settings visitors see, one per translation language: logo text, logo and mobile logo image, breadcrumbs home text, social icon labels, menu item subtitle and image, and the privacy policy link of the consent manager. They show on the site in that language.]]></item>
+			<item><![CDATA[Translated URL aliases for articles and categories: an Alias (URL) field on their translation screen gives translated URLs below a menu item, for example /ms/blog/berita/pejabat-baru-kami.html under a Category Blog. Old URLs redirect (301) to the translated ones, and the language switcher and hreflang links follow. As for menu items, an empty alias is made from the translated title, and "Make URL Aliases from Titles" fills aliases of articles and categories translated before. Updating does not change any URL by itself.]]></item>
+			<item><![CDATA[Site setup on the dashboard: while something a multilingual site needs is missing, a card lists it, and Fix does it in one click (for site administrators): enable Language Filter, Terjemah, TerjemahYOOPro or System - SEF, create and publish content languages, or publish a language switcher in the module position you choose. It replaces the plugin warnings shown before.]]></item>
+		</addition>
+		<fix>
+			<item><![CDATA[Changelog in Joomla: names written in bold show without the Markdown asterisks.]]></item>
+			<item><![CDATA[Language switcher and hreflang links of an article opened through a Category Blog or Category List menu item point at the article in the other language, not at the menu item with the article in the query string.]]></item>
+			<item><![CDATA[Translations list: the content type, language and status filters show again (they were missing next to the search box).]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
 		<version>1.0.0</version>
 		<change>
 			<item><![CDATA[First stable release. From 1.0, database tables, settings, CLI commands and the export format only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
