@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
 	<update>
-		<name>Elemen: Animated Background Pro 1.0.0, Countdown Pro 1.0.0, Counter Pro 1.0.0 and 10 more</name>
-		<description>Elemen: Animated Background Pro 1.0.0, Countdown Pro 1.0.0, Counter Pro 1.0.0 and 10 more</description>
+		<name>Elemen: Header Pro 1.0.1</name>
+		<description>Elemen: Header Pro 1.0.1</description>
 		<element>pkg_elemen</element>
 		<type>package</type>
 		<client>site</client>
-		<version>1.0.0</version>
+		<version>1.0.1</version>
 		<infourl title="Elemen">https://www.webmonsta.com</infourl>
 		<changelogurl>https://updates.webmonsta.com/elemen/changelog_pkg_elemen.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-1.0.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-1.0.1.zip</downloadurl>
 		</downloads>
-		<sha512>56fff4c5de471254bfb0960747e9649d4e59c550c52be3192560f54bf3c3b25852230a93ff51a64bce0ca7569977b50eb474da24ed418f890b885f85a847f039</sha512>
+		<sha512>f0f8db12b27d6b2c3e0870e5994ba4d68ea8529ec251f3261667e73efa3c42fb045562bd6304235fde292665fb92688df115a653a6657a4b2bd72889dd57ea65</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>WebMonsta</maintainer>

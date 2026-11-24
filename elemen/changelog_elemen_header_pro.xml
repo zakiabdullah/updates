@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_header_pro</element>
 		<type>plugin</type>
+		<version>1.0.1</version>
+		<fix>
+			<item><![CDATA[Sticky Height: an SVG logo without its own width and height (only a viewBox) disappeared while the navbar was sticky. The logo now gets a height, never more than its own, so it shrinks instead.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>elemen_header_pro</element>
+		<type>plugin</type>
 		<version>1.0.0</version>
 		<change>
 			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
