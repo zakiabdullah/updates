@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>elemen_table_pro</element>
+		<type>plugin</type>
+		<version>1.2.0</version>
+		<addition>
+			<item><![CDATA[First release: tables with up to 24 columns. Each column has a heading, a type (text, number, date, image, icon, rating, yes / no, button or tags), alignment, width and the screen size from which it shows. Text can be shortened to a number of characters; numbers get decimals, separators and text before or after (e.g. RM); dates take one of 17 formats in the site language.]]></item>
+			<item><![CDATA[Every cell can have its own link. Images open in a lightbox, row numbers can be added, and the header row can stay in view while the table scrolls in a box.]]></item>
+			<item><![CDATA[On small screens the table scrolls sideways or shows each row as a card with the column names.]]></item>
+			<item><![CDATA[Rows can come from dynamic content such as articles. Headings and cells can be translated with a multilingual plugin that reads the "translate" flag.]]></item>
+		</addition>
+	</changelog>
+</changelogs>
