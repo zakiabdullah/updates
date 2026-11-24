@@ -3,6 +3,21 @@
 	<changelog>
 		<element>pkg_terjemah</element>
 		<type>package</type>
+		<version>1.2.0</version>
+		<addition>
+			<item><![CDATA[Partly translated: an item with some of its text still to translate has its own status in the translations list, with the number of fields done (for example "2 of 5 fields"), a status filter, and a count on the dashboard. The URL alias does not count, since leaving it empty keeps the original URL.]]></item>
+			<item><![CDATA[Translation screen: Save & Next saves and opens the next item of the same type with work to do in that language.]]></item>
+			<item><![CDATA[Translation screen: keyboard shortcuts Ctrl+S (save), Ctrl+Enter (save & next) and Alt+C (copy the original into the field in focus); Cmd works for Ctrl on a Mac.]]></item>
+			<item><![CDATA[Translation screen: character counters for meta descriptions (160) and browser page titles (60), which turn orange when the text is longer than search engines usually show.]]></item>
+		</addition>
+		<change>
+			<item><![CDATA[Translation screen: fields with no original text are folded away under one line, and the column headings stay in view below the toolbar while scrolling.]]></item>
+			<item><![CDATA[Dashboard: progress counts only items translated in full; content types without items are named in one line under the table instead of each having a row; progress bars are shorter on wide screens.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
 		<version>1.1.0</version>
 		<addition>
 			<item><![CDATA[YOOtheme Pro customizer: translation fields right below the theme settings visitors see, one per translation language: logo text, logo and mobile logo image, breadcrumbs home text, social icon labels, menu item subtitle and image, and the privacy policy link of the consent manager. They show on the site in that language.]]></item>
