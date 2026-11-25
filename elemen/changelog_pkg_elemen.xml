@@ -3,6 +3,15 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>1.7.0</version>
+		<addition>
+			<item><![CDATA[Package: Animated Background Pro 1.1.0: six ready-made presets for aurora, gradient, grids, dots, waves and shapes.]]></item>
+			<item><![CDATA[Animated Background Pro 1.1.0: Ready-made Calm Aurora, Soft Gradient, Tech Grid, Quiet Dots, Ocean Waves and Playful Shapes presets; Custom keeps the existing controls.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>1.6.0</version>
 		<addition>
 			<item><![CDATA[Package: Heading Pro 1.2.0: Raised (Emboss) and Inset (Deboss) Background Text with strength settings, plus Soft Shadow and Gradient Fade effects.]]></item>

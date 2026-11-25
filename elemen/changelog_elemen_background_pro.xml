@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_background_pro</element>
 		<type>plugin</type>
+		<version>1.1.0</version>
+		<addition>
+			<item><![CDATA[Ready-made Calm Aurora, Soft Gradient, Tech Grid, Quiet Dots, Ocean Waves and Playful Shapes presets; Custom keeps the existing controls.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_background_pro</element>
+		<type>plugin</type>
 		<version>1.0.0</version>
 		<change>
 			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>
