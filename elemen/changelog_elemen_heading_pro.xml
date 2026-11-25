@@ -3,6 +3,15 @@
 	<changelog>
 		<element>elemen_heading_pro</element>
 		<type>plugin</type>
+		<version>1.2.0</version>
+		<addition>
+			<item><![CDATA[Raised (Emboss) and Inset (Deboss) depth effects for Background Text, with Soft, Medium and Strong strength settings.]]></item>
+			<item><![CDATA[Soft Shadow and Gradient Fade styles for Background Text.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_heading_pro</element>
+		<type>plugin</type>
 		<version>1.1.0</version>
 		<addition>
 			<item><![CDATA[Line-by-line text reveal, with delays recalculated when the heading wraps at a new width.]]></item>

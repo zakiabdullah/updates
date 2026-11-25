@@ -3,6 +3,16 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>1.6.0</version>
+		<addition>
+			<item><![CDATA[Package: Heading Pro 1.2.0: Raised (Emboss) and Inset (Deboss) Background Text with strength settings, plus Soft Shadow and Gradient Fade effects.]]></item>
+			<item><![CDATA[Heading Pro 1.2.0: Raised (Emboss) and Inset (Deboss) depth effects for Background Text, with Soft, Medium and Strong strength settings.]]></item>
+			<item><![CDATA[Heading Pro 1.2.0: Soft Shadow and Gradient Fade styles for Background Text.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>1.5.0</version>
 		<addition>
 			<item><![CDATA[Package: Heading Pro 1.1.0: line-by-line reveal, independently styled braced phrases and reveal presets.]]></item>
