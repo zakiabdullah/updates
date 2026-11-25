@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>elemen_pricing_pro</element>
+		<type>plugin</type>
+		<version>1.4.0</version>
+		<addition>
+			<item><![CDATA[First release: pricing plans side by side, each with a name, description, badge, icon or image, monthly and yearly price, a note under the price, a list of features and a button.]]></item>
+			<item><![CDATA[A Monthly / Yearly switch with a savings badge (e.g. "Save 20%"). Prices are formatted with the currency before or after, decimals and separators; text such as "Free" shows as written.]]></item>
+			<item><![CDATA[Feature lines starting with "x " show as not included.]]></item>
+			<item><![CDATA[One plan can be highlighted: larger, with a border, or as a primary card, and shown first on phones.]]></item>
+			<item><![CDATA[Plans can come from dynamic content such as articles; texts can be translated with a multilingual plugin that reads the "translate" flag.]]></item>
+		</addition>
+	</changelog>
+</changelogs>
