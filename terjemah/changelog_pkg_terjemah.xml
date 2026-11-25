@@ -3,6 +3,20 @@
 	<changelog>
 		<element>pkg_terjemah</element>
 		<type>package</type>
+		<version>1.4.0</version>
+		<addition>
+			<item><![CDATA[Translation screen: exact-match translation memory suggests up to three recent published translations, with an explicit action to apply a suggestion.]]></item>
+			<item><![CDATA[Translation screen: matching glossary terms can be inserted at the cursor or over selected text.]]></item>
+		</addition>
+		<change>
+			<item><![CDATA[Translation search uses a dedicated database index for published exact-match suggestions.]]></item>
+			<item><![CDATA[Bulk replacement treats inserted text as text in HTML fields and skips tag attributes and script/style contents; search reads candidates in bounded batches.]]></item>
+			<item><![CDATA[Translation edits, glossary saves and bulk replacements roll back together if a database operation fails.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
 		<version>1.3.0</version>
 		<change>
 			<item><![CDATA[YOOtheme Pro Builder: in the Translation tab, a translation field shows only when its original has text (or a translation was entered before), so elements with many optional fields, such as tables, list only what there is to translate. Fields mapped to dynamic content are translated with their content and do not show.]]></item>
