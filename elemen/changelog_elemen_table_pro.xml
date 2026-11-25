@@ -3,6 +3,18 @@
 	<changelog>
 		<element>elemen_table_pro</element>
 		<type>plugin</type>
+		<version>1.3.0</version>
+		<addition>
+			<item><![CDATA[Search: a search box over every cell, with the matches highlighted. Accents can be ignored, so "cafe" finds "café".]]></item>
+			<item><![CDATA[Sorting: visitors sort by the columns you allow, by value: numbers and ratings as numbers, dates as dates, yes / no and text in order. The table can start sorted by a column.]]></item>
+			<item><![CDATA[Filters: a dropdown with the values of a column; values separated by commas (such as tags) can be separate choices.]]></item>
+			<item><![CDATA[Pages: show a number of rows per page, with page links and "Showing 1–10 of 42".]]></item>
+			<item><![CDATA[Everything works in the browser without loading data; without JavaScript every row shows.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_table_pro</element>
+		<type>plugin</type>
 		<version>1.2.0</version>
 		<addition>
 			<item><![CDATA[First release: tables with up to 24 columns. Each column has a heading, a type (text, number, date, image, icon, rating, yes / no, button or tags), alignment, width and the screen size from which it shows. Text can be shortened to a number of characters; numbers get decimals, separators and text before or after (e.g. RM); dates take one of 17 formats in the site language.]]></item>

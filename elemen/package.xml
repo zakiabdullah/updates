@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
 	<update>
-		<name>Elemen: Table Pro 1.2.0</name>
-		<description>Elemen: Table Pro 1.2.0</description>
+		<name>Elemen: Table Pro 1.3.0</name>
+		<description>Elemen: Table Pro 1.3.0</description>
 		<element>pkg_elemen</element>
 		<type>package</type>
 		<client>site</client>
-		<version>1.2.0</version>
+		<version>1.3.0</version>
 		<infourl title="Elemen">https://www.webmonsta.com</infourl>
 		<changelogurl>https://updates.webmonsta.com/elemen/changelog_pkg_elemen.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-1.2.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-1.3.0.zip</downloadurl>
 		</downloads>
-		<sha512>bd28b23c8a41b9d53c197dff1da440d2fc805872c37b263f5d6874b14aa06fbbe48e8b24a525214c0eb8ba1baa574e034150389d0e9f36d6e2b0ae510f758875</sha512>
+		<sha512>f1fb9ab14b41ec3110d80a33c78e6b0ef557504974768a00d4f436d6ef45dfaf5d56ec8712487f41430ab8deeb50a59f0c7dc9279af3a42d50756cadecd2fc29</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>WebMonsta</maintainer>
