@@ -3,6 +3,16 @@
 	<changelog>
 		<element>elemen_heading_pro</element>
 		<type>plugin</type>
+		<version>1.1.0</version>
+		<addition>
+			<item><![CDATA[Line-by-line text reveal, with delays recalculated when the heading wraps at a new width.]]></item>
+			<item><![CDATA[Braced phrases can choose a theme colour and effect independently, e.g. {websites|primary|marker}.]]></item>
+			<item><![CDATA[Subtle, Editorial and Bold reveal presets; Custom keeps the individual animation controls.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_heading_pro</element>
+		<type>plugin</type>
 		<version>1.0.0</version>
 		<change>
 			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>

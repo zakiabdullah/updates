@@ -3,6 +3,17 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>1.5.0</version>
+		<addition>
+			<item><![CDATA[Package: Heading Pro 1.1.0: line-by-line reveal, independently styled braced phrases and reveal presets.]]></item>
+			<item><![CDATA[Heading Pro 1.1.0: Line-by-line text reveal, with delays recalculated when the heading wraps at a new width.]]></item>
+			<item><![CDATA[Heading Pro 1.1.0: Braced phrases can choose a theme colour and effect independently, e.g. {websites|primary|marker}.]]></item>
+			<item><![CDATA[Heading Pro 1.1.0: Subtle, Editorial and Bold reveal presets; Custom keeps the individual animation controls.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>1.4.0</version>
 		<addition>
 			<item><![CDATA[Pricing Pro 1.4.0: First release: pricing plans side by side, each with a name, description, badge, icon or image, monthly and yearly price, a note under the price, a list of features and a button.]]></item>
