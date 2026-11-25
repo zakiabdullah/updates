@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_pricing_pro</element>
 		<type>plugin</type>
+		<version>1.5.0</version>
+		<change>
+			<item><![CDATA[The Monthly / Yearly switch uses an inverse translucent active state in dark sections while keeping its light-surface appearance in light sections.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>elemen_pricing_pro</element>
+		<type>plugin</type>
 		<version>1.4.0</version>
 		<addition>
 			<item><![CDATA[First release: pricing plans side by side, each with a name, description, badge, icon or image, monthly and yearly price, a note under the price, a list of features and a button.]]></item>

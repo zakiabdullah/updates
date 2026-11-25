@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_marquee_pro</element>
 		<type>plugin</type>
+		<version>1.1.0</version>
+		<change>
+			<item><![CDATA[Card-style marquee items use a light or inverse translucent surface to stay distinct in light and dark sections.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>elemen_marquee_pro</element>
+		<type>plugin</type>
 		<version>1.0.0</version>
 		<change>
 			<item><![CDATA[First stable release. From 1.0, setting names and values only change in a new major version; minor versions add features and patch versions fix bugs.]]></item>

@@ -3,6 +3,20 @@
 	<changelog>
 		<element>elemen_background_pro</element>
 		<type>plugin</type>
+		<version>2.0.0</version>
+		<addition>
+			<item><![CDATA[Optional Scene Editor with up to three visual layers, editable presets, per-layer palettes, intensity, speed, position and direction, plus Auto/Light/Dark appearance and mobile behaviour.]]></item>
+		</addition>
+		<change>
+			<item><![CDATA[Existing 1.x background settings continue to use the legacy rendering path; Scene Editor 2.0 stays opt-in.]]></item>
+		</change>
+		<fix>
+			<item><![CDATA[Tech Grid now uses the theme palette by default, and pattern contrast is boosted on Primary/Secondary sections so the grid remains visible.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>elemen_background_pro</element>
+		<type>plugin</type>
 		<version>1.1.0</version>
 		<addition>
 			<item><![CDATA[Ready-made Calm Aurora, Soft Gradient, Tech Grid, Quiet Dots, Ocean Waves and Playful Shapes presets; Custom keeps the existing controls.]]></item>

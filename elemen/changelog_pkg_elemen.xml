@@ -3,6 +3,23 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>1.9.0</version>
+		<change>
+			<item><![CDATA[Package: Pricing Pro 1.5.0 and Marquee Pro 1.1.0 use theme-aware controls and surfaces for light and dark sections.]]></item>
+			<item><![CDATA[Animated Background Pro 2.0.0: Existing 1.x background settings continue to use the legacy rendering path; Scene Editor 2.0 stays opt-in.]]></item>
+			<item><![CDATA[Marquee Pro 1.1.0: Card-style marquee items use a light or inverse translucent surface to stay distinct in light and dark sections.]]></item>
+			<item><![CDATA[Pricing Pro 1.5.0: The Monthly / Yearly switch uses an inverse translucent active state in dark sections while keeping its light-surface appearance in light sections.]]></item>
+		</change>
+		<addition>
+			<item><![CDATA[Animated Background Pro 2.0.0: Optional Scene Editor with up to three visual layers, editable presets, per-layer palettes, intensity, speed, position and direction, plus Auto/Light/Dark appearance and mobile behaviour.]]></item>
+		</addition>
+		<fix>
+			<item><![CDATA[Animated Background Pro 2.0.0: Tech Grid now uses the theme palette by default, and pattern contrast is boosted on Primary/Secondary sections so the grid remains visible.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>1.7.0</version>
 		<addition>
 			<item><![CDATA[Package: Animated Background Pro 1.1.0: six ready-made presets for aurora, gradient, grids, dots, waves and shapes.]]></item>
