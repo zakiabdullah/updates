@@ -3,6 +3,19 @@
 	<changelog>
 		<element>pkg_terjemah</element>
 		<type>package</type>
+		<version>1.5.0</version>
+		<addition>
+			<item><![CDATA[Article lists in Joomla's core mod_articles module now show translated article text. Terjemah enables the module's content events only when the current language has article translations.]]></item>
+			<item><![CDATA[com_tags pages now translate tag titles, page headings and tag descriptions.]]></item>
+			<item><![CDATA[Smart Search indexes language-specific copies of articles with translations, so queries in a translation language can match translated titles and article text.]]></item>
+		</addition>
+		<change>
+			<item><![CDATA[Purge and rebuild the Smart Search index after article translations change, so its language-specific entries match the current translations.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
 		<version>1.4.0</version>
 		<addition>
 			<item><![CDATA[Translation screen: exact-match translation memory suggests up to three recent published translations, with an explicit action to apply a suggestion.]]></item>
