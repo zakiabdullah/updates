@@ -3,6 +3,15 @@
 	<changelog>
 		<element>pkg_terjemah</element>
 		<type>package</type>
+		<version>1.5.1</version>
+		<fix>
+			<item><![CDATA[Smart Search indexing reads Joomla's positional index event arguments without deprecated numeric access, and builds article routes with integer IDs.]]></item>
+			<item><![CDATA[Static analysis and code style checks pass across the package.]]></item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>pkg_terjemah</element>
+		<type>package</type>
 		<version>1.5.0</version>
 		<addition>
 			<item><![CDATA[Article lists in Joomla's core mod_articles module now show translated article text. Terjemah enables the module's content events only when the current language has article translations.]]></item>
