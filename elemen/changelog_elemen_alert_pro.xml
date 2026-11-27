@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_alert_pro</element>
 		<type>plugin</type>
+		<version>1.15.0</version>
+		<addition>
+			<item><![CDATA[With Icon Pro installed, the icon can be any of Icon Pro's icons (over 2,000 Lucide icons, UIkit icons or an icon font), picked from its gallery in the "Icon (Icon Pro)" field. It takes the alert's icon colour and size.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_alert_pro</element>
+		<type>plugin</type>
 		<version>1.14.0</version>
 		<addition>
 			<item><![CDATA[Placement: in the page, sticking to the top while scrolling (with a top offset for a sticky header), a bar fixed to the bottom of the window (optionally floating off the edges, keeping the end of the page visible above it), or a toast in one of six corners.]]></item>

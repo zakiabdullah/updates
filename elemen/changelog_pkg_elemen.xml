@@ -3,6 +3,16 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>1.15.0</version>
+		<addition>
+			<item><![CDATA[Package: Alert Pro 1.15.0 and Icon Pro 1.1.0: Alert Pro's icon can be any Icon Pro icon, picked from the gallery.]]></item>
+			<item><![CDATA[Alert Pro 1.15.0: With Icon Pro installed, the icon can be any of Icon Pro's icons (over 2,000 Lucide icons, UIkit icons or an icon font), picked from its gallery in the "Icon (Icon Pro)" field. It takes the alert's icon colour and size.]]></item>
+			<item><![CDATA[Icon Pro 1.1.0: Alert Pro gets the "Icon (Icon Pro)" field with the icon picker, after its Icon field.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>1.14.0</version>
 		<addition>
 			<item><![CDATA[Package: Alert Pro 1.14.0: sticky alerts, a bar fixed to the bottom of the window and toasts in a corner with show-after and hide-after times.]]></item>
