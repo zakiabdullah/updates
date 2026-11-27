@@ -3,6 +3,20 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>1.19.0</version>
+		<addition>
+			<item><![CDATA[Package: Slideshow Pro 1.19.0 and Icon Pro 1.3.0: clip transitions, Split layout, content cards, button and arrow icons (also from Icon Pro) and room for Shape Dividers.]]></item>
+			<item><![CDATA[Icon Pro 1.3.0: Slideshow Pro gets the "Icon (Icon Pro)" field with the icon picker for its Arrow Icon and for the icons of both buttons of every slide.]]></item>
+			<item><![CDATA[Slideshow Pro 1.19.0: Transitions Wipe, Curtain, Circle reveal, Diagonal and Blinds: the new slide is drawn over the old one, which recedes slightly. Swiping still changes the slide; with reduced motion they become a fade.]]></item>
+			<item><![CDATA[Slideshow Pro 1.19.0: Split layout: the image beside a panel in the theme's default, muted, primary or secondary colour (the text colour follows the panel). Half, 60% or two thirds wide; each slide can put its image on the other side. The image comes in from the panel's edge; on phones it is on top and the slideshow is at least 640px tall.]]></item>
+			<item><![CDATA[Slideshow Pro 1.19.0: Content card behind the text: Box, Glass, Primary or Secondary.]]></item>
+			<item><![CDATA[Slideshow Pro 1.19.0: Button icons (before or after the text) and an Arrow Icon for your own arrows; both can be Icon Pro icons.]]></item>
+			<item><![CDATA[Slideshow Pro 1.19.0: A Shape Divider of Shape Dividers Pro shown in front at the bottom of the section: the content, navigation and progress bar move up to make room for it.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>1.18.0</version>
 		<addition>
 			<item><![CDATA[Package: Slideshow Pro 1.18.0: navigation as dots, lines, slide titles or thumbnails with progress, a counter, a progress bar and four arrow styles.]]></item>
