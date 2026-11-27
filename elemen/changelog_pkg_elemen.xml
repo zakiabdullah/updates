@@ -3,6 +3,24 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>1.12.0</version>
+		<change>
+			<item><![CDATA[Package: DOCman Pro 1.11.0: Category, File extension and File size fixed; new Link, Download Link, Image, dates, Author, Downloads and readable File Size fields; category list with child categories and ordering.]]></item>
+			<item><![CDATA[DOCman Pro 1.11.0: DOCman API errors are written to the Joomla log (category "elemen") instead of being silently ignored.]]></item>
+		</change>
+		<fix>
+			<item><![CDATA[DOCman Pro 1.11.0: Category, File extension and File size were always empty.]]></item>
+		</fix>
+		<addition>
+			<item><![CDATA[DOCman Pro 1.11.0: Link and Download Link fields, through the document's DOCman menu item (as DOCman's own documents module; without a DOCman menu item there is no link).]]></item>
+			<item><![CDATA[DOCman Pro 1.11.0: Image (DOCman thumbnail, resizable by YOOtheme), Icon Name, Created and Modified dates, Author, Downloads, File Type, MIME Type and a readable File Size such as "4.8 MB".]]></item>
+			<item><![CDATA[DOCman Pro 1.11.0: Dates use YOOtheme's date format options; Title and Description can be shortened.]]></item>
+			<item><![CDATA[DOCman Pro 1.11.0: Documents list: choose categories from a list (several at once), include child categories, and order by newest, oldest, title, downloads, last modified or DOCman ordering.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>1.11.0</version>
 		<change>
 			<item><![CDATA[Package: Header Pro 2.0.0: Smart Search removed; Scroll Progress gets colours (theme, gradient or custom), height, a position below the header and a soft glow; five new menu styles (Soft Pill, Outline, Segmented, Overline, Dot), line animations and gradient lines; an Announcement Bar; shadow only after scrolling; a gradient border.]]></item>
