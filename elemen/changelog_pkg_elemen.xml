@@ -3,6 +3,24 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>1.11.0</version>
+		<change>
+			<item><![CDATA[Package: Header Pro 2.0.0: Smart Search removed; Scroll Progress gets colours (theme, gradient or custom), height, a position below the header and a soft glow; five new menu styles (Soft Pill, Outline, Segmented, Overline, Dot), line animations and gradient lines; an Announcement Bar; shadow only after scrolling; a gradient border.]]></item>
+		</change>
+		<remove>
+			<item><![CDATA[Header Pro 2.0.0: The Smart Search control from 1.2.0 and its settings (Search, Search Position, search in the mobile header). Saved values are ignored; use YOOtheme's own search module instead.]]></item>
+		</remove>
+		<addition>
+			<item><![CDATA[Header Pro 2.0.0: Scroll Progress: Progress Colour (Primary, Secondary, a primary-to-secondary gradient or your own one or two colours), Progress Height (1 to 8 px), Progress Position (top of the window or right below the header, following the sticky navbar) and a soft glow. A gradient spans the window and the bar uncovers it as visitors scroll.]]></item>
+			<item><![CDATA[Header Pro 2.0.0: Menu Style: Soft Pill (a light wash of the primary colour), Outline (a thin ring), Segmented (the items in a tray, the active one a raised tab), Overline and Dot, next to Pill and Underline. All of them work with the sliding highlight and on dark tints.]]></item>
+			<item><![CDATA[Header Pro 2.0.0: Underline and Overline: Line Animation (grow from the middle, grow from the start or fade in) and an optional primary-to-secondary gradient line.]]></item>
+			<item><![CDATA[Header Pro 2.0.0: Announcement Bar: a bar above the header with a text, an optional link (or link text with an arrow), in the theme's primary, secondary, muted or default colours or a gradient, on all pages or the home page only. Visitors can close it; a new text shows again. Texts and link can be translated per language.]]></item>
+			<item><![CDATA[Header Pro 2.0.0: Effects: Shadow only after scrolling, and a Gradient border (a 2px primary-to-secondary line under a full-width bar, a gradient ring around a capsule).]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>1.10.0</version>
 		<addition>
 			<item><![CDATA[Package: Header Pro 1.2.0: optional Smart Search in the desktop or mobile header, styled by the active theme.]]></item>
