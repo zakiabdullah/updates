@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
 	<update>
-		<name>Elemen: Card Pro 1.16.0, Icon Pro 1.2.0</name>
-		<description>Elemen: Card Pro 1.16.0, Icon Pro 1.2.0</description>
+		<name>Elemen: Slideshow Pro 1.17.0</name>
+		<description>Elemen: Slideshow Pro 1.17.0</description>
 		<element>pkg_elemen</element>
 		<type>package</type>
 		<client>site</client>
-		<version>1.16.0</version>
+		<version>1.17.0</version>
 		<infourl title="Elemen">https://www.webmonsta.com</infourl>
 		<changelogurl>https://updates.webmonsta.com/elemen/changelog_pkg_elemen.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-1.16.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-1.17.0.zip</downloadurl>
 		</downloads>
-		<sha512>96a4879cd388722fc0111ace97fbda45f1ffea089b52840d094abb047af8265cbc6815329b8fbd410897575eb3b8c24ac502235bc415629a556ca7d235d260e7</sha512>
+		<sha512>84bab2314747b4f6565944c974a218cb65ad98bce84aa4c48c3284d9676fbe9bc73aed95786418f791ce2d77dcf8a8eab5c8f0a8cc4ab89653471b9054396891</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>WebMonsta</maintainer>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>elemen_slideshow_pro</element>
+		<type>plugin</type>
+		<version>1.17.0</version>
+		<addition>
+			<item><![CDATA[First release: a hero slideshow built on UIkit, each slide with an eyebrow, title, content, two buttons, an image and an image for phones. Slides can come from dynamic content such as articles.]]></item>
+			<item><![CDATA[The eyebrow, title, text and buttons come in one after another on every slide: fade up, slide in, blur in, mask reveal or word by word, with delay, stagger and duration.]]></item>
+			<item><![CDATA[Ken Burns zoom in, zoom out, pan left, pan right or alternating, per slide too.]]></item>
+			<item><![CDATA[Overlay in black, white, the theme's primary or secondary colour or a custom colour, solid, as a gradient from the bottom or the side, or as a vignette.]]></item>
+			<item><![CDATA[Height: full screen (minus the header), a ratio or fixed; content in nine positions inside the page container, light or dark text per slide (the header follows).]]></item>
+			<item><![CDATA[Autoplay with its own duration per slide; it pauses on hover and focus, when the slideshow is off-screen or the tab is hidden, and with a Pause/Play button.]]></item>
+			<item><![CDATA[Show from/until dates per slide; the builder preview shows scheduled slides marked.]]></item>
+			<item><![CDATA[Focal point for the image and the phone image; the first image loads first.]]></item>
+			<item><![CDATA[The first slide's title can be the page's H1, the others H2.]]></item>
+			<item><![CDATA[Arrows, dots and a scroll-down hint for full-screen slideshows.]]></item>
+		</addition>
+	</changelog>
+</changelogs>

@@ -3,6 +3,24 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>1.17.0</version>
+		<addition>
+			<item><![CDATA[Package: Slideshow Pro 1.17.0 (new): hero slideshows whose content comes in part by part, with Ken Burns, overlays, an autoplay with per-slide durations and a Pause button, slide dates, phone images and an H1 for the first slide.]]></item>
+			<item><![CDATA[Slideshow Pro 1.17.0: First release: a hero slideshow built on UIkit, each slide with an eyebrow, title, content, two buttons, an image and an image for phones. Slides can come from dynamic content such as articles.]]></item>
+			<item><![CDATA[Slideshow Pro 1.17.0: The eyebrow, title, text and buttons come in one after another on every slide: fade up, slide in, blur in, mask reveal or word by word, with delay, stagger and duration.]]></item>
+			<item><![CDATA[Slideshow Pro 1.17.0: Ken Burns zoom in, zoom out, pan left, pan right or alternating, per slide too.]]></item>
+			<item><![CDATA[Slideshow Pro 1.17.0: Overlay in black, white, the theme's primary or secondary colour or a custom colour, solid, as a gradient from the bottom or the side, or as a vignette.]]></item>
+			<item><![CDATA[Slideshow Pro 1.17.0: Height: full screen (minus the header), a ratio or fixed; content in nine positions inside the page container, light or dark text per slide (the header follows).]]></item>
+			<item><![CDATA[Slideshow Pro 1.17.0: Autoplay with its own duration per slide; it pauses on hover and focus, when the slideshow is off-screen or the tab is hidden, and with a Pause/Play button.]]></item>
+			<item><![CDATA[Slideshow Pro 1.17.0: Show from/until dates per slide; the builder preview shows scheduled slides marked.]]></item>
+			<item><![CDATA[Slideshow Pro 1.17.0: Focal point for the image and the phone image; the first image loads first.]]></item>
+			<item><![CDATA[Slideshow Pro 1.17.0: The first slide's title can be the page's H1, the others H2.]]></item>
+			<item><![CDATA[Slideshow Pro 1.17.0: Arrows, dots and a scroll-down hint for full-screen slideshows.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>1.16.0</version>
 		<addition>
 			<item><![CDATA[Package: Card Pro 1.16.0 (new) and Icon Pro 1.2.0: cards in eight styles with hover effects, presets and theme-aware accent colours; Card Pro icons can be any Icon Pro icon.]]></item>
