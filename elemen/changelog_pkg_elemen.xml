@@ -3,6 +3,17 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>1.14.0</version>
+		<addition>
+			<item><![CDATA[Package: Alert Pro 1.14.0: sticky alerts, a bar fixed to the bottom of the window and toasts in a corner with show-after and hide-after times.]]></item>
+			<item><![CDATA[Alert Pro 1.14.0: Placement: in the page, sticking to the top while scrolling (with a top offset for a sticky header), a bar fixed to the bottom of the window (optionally floating off the edges, keeping the end of the page visible above it), or a toast in one of six corners.]]></item>
+			<item><![CDATA[Alert Pro 1.14.0: Toasts: width, show after a number of seconds and hide after a number of seconds (paused while the pointer or keyboard focus is on them). Several toasts in one corner stack; on phones they take the full width.]]></item>
+			<item><![CDATA[Alert Pro 1.14.0: The builder preview keeps placed alerts in the page with a label, so they stay editable.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>1.13.0</version>
 		<addition>
 			<item><![CDATA[Package: Alert Pro 1.13.0: alerts with types, seven styles, icons and buttons, a close button that can be remembered, show from/until dates and an "Ends in" countdown.]]></item>

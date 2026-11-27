@@ -3,6 +3,16 @@
 	<changelog>
 		<element>elemen_alert_pro</element>
 		<type>plugin</type>
+		<version>1.14.0</version>
+		<addition>
+			<item><![CDATA[Placement: in the page, sticking to the top while scrolling (with a top offset for a sticky header), a bar fixed to the bottom of the window (optionally floating off the edges, keeping the end of the page visible above it), or a toast in one of six corners.]]></item>
+			<item><![CDATA[Toasts: width, show after a number of seconds and hide after a number of seconds (paused while the pointer or keyboard focus is on them). Several toasts in one corner stack; on phones they take the full width.]]></item>
+			<item><![CDATA[The builder preview keeps placed alerts in the page with a label, so they stay editable.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_alert_pro</element>
+		<type>plugin</type>
 		<version>1.13.0</version>
 		<addition>
 			<item><![CDATA[First release: alerts with a title, content, icon (a type's own, any UIkit icon or an image) and up to two buttons. Info, Success, Warning, Danger, Neutral or custom colours; Soft, Solid, Outline, Left border, Top border, Gradient or Glass styles; three sizes, corner radius, shadow, compact one-line layout and buttons beside or below the text.]]></item>
