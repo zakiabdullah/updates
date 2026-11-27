@@ -3,6 +3,20 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>1.20.0</version>
+		<addition>
+			<item><![CDATA[Package: Slideshow Pro 1.20.0: background videos from YouTube, Vimeo or video files (with cookie consent and an option to wait for the end), Facebook videos in a lightbox, and five presets.]]></item>
+			<item><![CDATA[Slideshow Pro 1.20.0: Background videos per slide from YouTube, Vimeo or a video file (MP4, WebM): muted, without controls, loaded only when the slide is shown and faded in once playing; the image is the poster. Videos pause with the Pause button, off-screen and in hidden tabs. YouTube uses youtube-nocookie.com and Vimeo Do Not Track.]]></item>
+			<item><![CDATA[Slideshow Pro 1.20.0: Facebook videos: Facebook doesn't allow muted background videos, so a Facebook link adds a Play video button that opens the video in a lightbox; the slideshow pauses meanwhile.]]></item>
+			<item><![CDATA[Slideshow Pro 1.20.0: "Wait until a slide's video has ended": autoplay moves on when the video ends (YouTube, Vimeo and video files) and the progress bar and navigation follow the video. Videos that don't start within 10 seconds use the slide's duration.]]></item>
+			<item><![CDATA[Slideshow Pro 1.20.0: YOOtheme's cookie consent: YouTube and Vimeo videos wait for consent and start as soon as it is given; until then the image shows.]]></item>
+			<item><![CDATA[Slideshow Pro 1.20.0: "Play videos on phones" can be switched off to show the image and save data. With reduced motion the image shows instead of the video.]]></item>
+			<item><![CDATA[Slideshow Pro 1.20.0: Presets: Corporate Hero, Product Showcase, Split Story, Testimonial and Minimal Fade. A preset sets the layout, transition, image effects, text styles, animation and navigation and hides those settings; heights, colours, durations and content stay yours.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>1.19.0</version>
 		<addition>
 			<item><![CDATA[Package: Slideshow Pro 1.19.0 and Icon Pro 1.3.0: clip transitions, Split layout, content cards, button and arrow icons (also from Icon Pro) and room for Shape Dividers.]]></item>

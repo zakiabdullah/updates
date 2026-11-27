@@ -3,6 +3,19 @@
 	<changelog>
 		<element>elemen_slideshow_pro</element>
 		<type>plugin</type>
+		<version>1.20.0</version>
+		<addition>
+			<item><![CDATA[Background videos per slide from YouTube, Vimeo or a video file (MP4, WebM): muted, without controls, loaded only when the slide is shown and faded in once playing; the image is the poster. Videos pause with the Pause button, off-screen and in hidden tabs. YouTube uses youtube-nocookie.com and Vimeo Do Not Track.]]></item>
+			<item><![CDATA[Facebook videos: Facebook doesn't allow muted background videos, so a Facebook link adds a Play video button that opens the video in a lightbox; the slideshow pauses meanwhile.]]></item>
+			<item><![CDATA["Wait until a slide's video has ended": autoplay moves on when the video ends (YouTube, Vimeo and video files) and the progress bar and navigation follow the video. Videos that don't start within 10 seconds use the slide's duration.]]></item>
+			<item><![CDATA[YOOtheme's cookie consent: YouTube and Vimeo videos wait for consent and start as soon as it is given; until then the image shows.]]></item>
+			<item><![CDATA["Play videos on phones" can be switched off to show the image and save data. With reduced motion the image shows instead of the video.]]></item>
+			<item><![CDATA[Presets: Corporate Hero, Product Showcase, Split Story, Testimonial and Minimal Fade. A preset sets the layout, transition, image effects, text styles, animation and navigation and hides those settings; heights, colours, durations and content stay yours.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_slideshow_pro</element>
+		<type>plugin</type>
 		<version>1.19.0</version>
 		<addition>
 			<item><![CDATA[Transitions Wipe, Curtain, Circle reveal, Diagonal and Blinds: the new slide is drawn over the old one, which recedes slightly. Swiping still changes the slide; with reduced motion they become a fade.]]></item>

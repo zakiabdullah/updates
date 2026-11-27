@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
 	<update>
-		<name>Elemen: Icon Pro 1.3.0, Slideshow Pro 1.19.0</name>
-		<description>Elemen: Icon Pro 1.3.0, Slideshow Pro 1.19.0</description>
+		<name>Elemen: Slideshow Pro 1.20.0</name>
+		<description>Elemen: Slideshow Pro 1.20.0</description>
 		<element>pkg_elemen</element>
 		<type>package</type>
 		<client>site</client>
-		<version>1.19.0</version>
+		<version>1.20.0</version>
 		<infourl title="Elemen">https://www.webmonsta.com</infourl>
 		<changelogurl>https://updates.webmonsta.com/elemen/changelog_pkg_elemen.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-1.19.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-1.20.0.zip</downloadurl>
 		</downloads>
-		<sha512>cef1ad38761cd46b9eb382d9915466eab4c3749a0b757d6335a32f7d8105715c9fd159054386c0dac0851ee908391be5451c2966ff85ce2a387189ab6c042864</sha512>
+		<sha512>3a387593886eec24d8a4dfc3f4115aec62aacf0c35002cbabc8963b09800c07e53f402ee28c945d15ca7f3afb7fc7ce472e4246b28f1cd62664b13c4e72d97b4</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>WebMonsta</maintainer>
