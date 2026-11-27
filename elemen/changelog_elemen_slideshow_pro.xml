@@ -3,6 +3,21 @@
 	<changelog>
 		<element>elemen_slideshow_pro</element>
 		<type>plugin</type>
+		<version>1.18.0</version>
+		<addition>
+			<item><![CDATA[Navigation styles: Dots, Lines with progress, Slide titles with progress (each slide can have a short Navigation Title) and Thumbnails with progress. On phones titles and thumbnails become lines.]]></item>
+			<item><![CDATA[Navigation position: bottom centre, start or end over the slides, or below the slideshow in the section's colours.]]></item>
+			<item><![CDATA[Counter (01 / 05).]]></item>
+			<item><![CDATA[Progress bar on the top or bottom edge that fills while a slide is shown and stops with the autoplay; without autoplay it shows how far through the slides the visitor is. Colour: Auto (the slide's text colour), primary, secondary or a gradient from the primary colour (to the secondary colour, or to a lighter primary when the secondary colour is grey); thickness 1-8px.]]></item>
+			<item><![CDATA[Arrow styles Minimal, Circle, Square and Glass; arrows on the sides or together beside the navigation; side arrows on hover only.]]></item>
+		</addition>
+		<change>
+			<item><![CDATA[The Dots checkbox became the Navigation setting; slideshows with dots turned off keep no navigation.]]></item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>elemen_slideshow_pro</element>
+		<type>plugin</type>
 		<version>1.17.0</version>
 		<addition>
 			<item><![CDATA[First release: a hero slideshow built on UIkit, each slide with an eyebrow, title, content, two buttons, an image and an image for phones. Slides can come from dynamic content such as articles.]]></item>
