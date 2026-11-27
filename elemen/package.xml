@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
 	<update>
-		<name>Elemen: DOCman Pro 1.11.0</name>
-		<description>Elemen: DOCman Pro 1.11.0 1.12.0</description>
+		<name>Elemen: Alert Pro 1.13.0</name>
+		<description>Elemen: Alert Pro 1.13.0</description>
 		<element>pkg_elemen</element>
 		<type>package</type>
 		<client>site</client>
-		<version>1.12.0</version>
+		<version>1.13.0</version>
 		<infourl title="Elemen">https://www.webmonsta.com</infourl>
 		<changelogurl>https://updates.webmonsta.com/elemen/changelog_pkg_elemen.xml</changelogurl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-1.12.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://updates.webmonsta.com/elemen/pkg_elemen-1.13.0.zip</downloadurl>
 		</downloads>
-		<sha512>ed764cc4e84f500150cbc9db2669e7dfd5cf1d0cd82bbd69d5bc5f6b4f83fdd24d5d6d533740a56712642b585434384b5c32ad98242e78e0e60b04da008181dd</sha512>
+		<sha512>69375f983d07469211942761a690a171e1b3688e06a83f0fcf464f64282fdcb9dda1d5cce06c9f2cfea17d70383e03bbd3273a1670e0c659d94f18bfbcc5bc69</sha512>
 		<targetplatform name="joomla" version="(5|6)\..*"/>
 		<php_minimum>8.1</php_minimum>
 		<maintainer>WebMonsta</maintainer>

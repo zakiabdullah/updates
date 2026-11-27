@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>elemen_alert_pro</element>
+		<type>plugin</type>
+		<version>1.13.0</version>
+		<addition>
+			<item><![CDATA[First release: alerts with a title, content, icon (a type's own, any UIkit icon or an image) and up to two buttons. Info, Success, Warning, Danger, Neutral or custom colours; Soft, Solid, Outline, Left border, Top border, Gradient or Glass styles; three sizes, corner radius, shadow, compact one-line layout and buttons beside or below the text.]]></item>
+			<item><![CDATA[Close button that hides the alert with a fade or slide, and can remember it for the browser session, a number of days or for good. A changed alert shows again.]]></item>
+			<item><![CDATA[Show from and Show until dates in the site's time zone, checked on the server, with an optional "Ends in" countdown that hides the alert when time is up.]]></item>
+			<item><![CDATA[A one-time Pulse or Shake to draw attention; screen readers hear Warning and Danger alerts straight away.]]></item>
+		</addition>
+	</changelog>
+</changelogs>

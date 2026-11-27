@@ -3,6 +3,18 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>1.13.0</version>
+		<addition>
+			<item><![CDATA[Package: Alert Pro 1.13.0: alerts with types, seven styles, icons and buttons, a close button that can be remembered, show from/until dates and an "Ends in" countdown.]]></item>
+			<item><![CDATA[Alert Pro 1.13.0: First release: alerts with a title, content, icon (a type's own, any UIkit icon or an image) and up to two buttons. Info, Success, Warning, Danger, Neutral or custom colours; Soft, Solid, Outline, Left border, Top border, Gradient or Glass styles; three sizes, corner radius, shadow, compact one-line layout and buttons beside or below the text.]]></item>
+			<item><![CDATA[Alert Pro 1.13.0: Close button that hides the alert with a fade or slide, and can remember it for the browser session, a number of days or for good. A changed alert shows again.]]></item>
+			<item><![CDATA[Alert Pro 1.13.0: Show from and Show until dates in the site's time zone, checked on the server, with an optional "Ends in" countdown that hides the alert when time is up.]]></item>
+			<item><![CDATA[Alert Pro 1.13.0: A one-time Pulse or Shake to draw attention; screen readers hear Warning and Danger alerts straight away.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>1.12.0</version>
 		<change>
 			<item><![CDATA[Package: DOCman Pro 1.11.0: Category, File extension and File size fixed; new Link, Download Link, Image, dates, Author, Downloads and readable File Size fields; category list with child categories and ordering.]]></item>
