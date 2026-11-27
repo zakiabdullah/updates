@@ -3,6 +3,18 @@
 	<changelog>
 		<element>pkg_elemen</element>
 		<type>package</type>
+		<version>1.10.0</version>
+		<addition>
+			<item><![CDATA[Package: Header Pro 1.2.0: optional Smart Search in the desktop or mobile header, styled by the active theme.]]></item>
+			<item><![CDATA[Package: DOCman Pro 1.10.0: use published DOCman documents as YOOtheme dynamic content sources.]]></item>
+			<item><![CDATA[DOCman Pro 1.10.0: Initial DOCman dynamic content source for one document and document lists.]]></item>
+			<item><![CDATA[DOCman Pro 1.10.0: Published documents are fetched through the DOCman PHP API with the current user's permissions.]]></item>
+			<item><![CDATA[Header Pro 1.2.0: Optional Smart Search control in the header or navbar, with keyboard-accessible disclosure, theme-aware colours and responsive mobile placement.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>pkg_elemen</element>
+		<type>package</type>
 		<version>1.9.0</version>
 		<change>
 			<item><![CDATA[Package: Pricing Pro 1.5.0 and Marquee Pro 1.1.0 use theme-aware controls and surfaces for light and dark sections.]]></item>

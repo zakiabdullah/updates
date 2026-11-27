@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>elemen_docman_pro</element>
+		<type>plugin</type>
+		<version>1.10.0</version>
+		<addition>
+			<item><![CDATA[Initial DOCman dynamic content source for one document and document lists.]]></item>
+			<item><![CDATA[Published documents are fetched through the DOCman PHP API with the current user's permissions.]]></item>
+		</addition>
+	</changelog>
+</changelogs>

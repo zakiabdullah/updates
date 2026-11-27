@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_header_pro</element>
 		<type>plugin</type>
+		<version>1.2.0</version>
+		<addition>
+			<item><![CDATA[Optional Smart Search control in the header or navbar, with keyboard-accessible disclosure, theme-aware colours and responsive mobile placement.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_header_pro</element>
+		<type>plugin</type>
 		<version>1.1.0</version>
 		<addition>
 			<item><![CDATA[The header button text and link can be translated per language with a multilingual plugin that reads the customizer's "translate" flag, such as TerjemahYOOPro.]]></item>
