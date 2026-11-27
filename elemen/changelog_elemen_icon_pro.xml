@@ -3,6 +3,14 @@
 	<changelog>
 		<element>elemen_icon_pro</element>
 		<type>plugin</type>
+		<version>1.2.0</version>
+		<addition>
+			<item><![CDATA[Card Pro gets the "Icon (Icon Pro)" field with the icon picker, after its Icon field.]]></item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>elemen_icon_pro</element>
+		<type>plugin</type>
 		<version>1.1.0</version>
 		<addition>
 			<item><![CDATA[Alert Pro gets the "Icon (Icon Pro)" field with the icon picker, after its Icon field.]]></item>

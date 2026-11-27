@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>elemen_card_pro</element>
+		<type>plugin</type>
+		<version>1.16.0</version>
+		<addition>
+			<item><![CDATA[First release: a grid of cards, each with a title, meta line, content, image, icon, badge and link. Cards can come from dynamic content such as articles.]]></item>
+			<item><![CDATA[Eight styles: Soft Elevated, Outline (the accent line is drawn round on hover), Accent Bar (grows on hover), Gradient Border (turns on hover or all the time), Glass (with a shine), Image Overlay, Spotlight (a light that follows the mouse, also on the borders of nearby cards) and Corporate Split (an accent panel with the icon or image).]]></item>
+			<item><![CDATA[Hover effects: Lift, Zoom Image, Tilt 3D with glare, Reveal and Glow. Tilt and Spotlight use a small script that only loads when needed and stays off on touch screens and with reduced motion.]]></item>
+			<item><![CDATA[Eight presets: Corporate, Glass, Feature, Blog, Team, Service, Testimonial and Showcase.]]></item>
+			<item><![CDATA[Accent colour from the theme (primary or secondary) or a custom colour, also per card; surfaces adapt to dark sections. Corners, shadow, padding, line width and speed can be set.]]></item>
+			<item><![CDATA[Images on top, inset, at the bottom or beside the text, as an avatar or a logo; badges above the title, in the corner or as a ribbon; featured cards; whole card clickable; cards appearing one after another on scroll.]]></item>
+		</addition>
+	</changelog>
+</changelogs>
